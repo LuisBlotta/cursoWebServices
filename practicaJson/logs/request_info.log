@@ -1,0 +1,631 @@
+[2019-12-17 11:10:41]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:10:41]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:10:41]	Response status code: 200
+[2019-12-17 11:10:41]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Madison","last":"Ross"},"location":{"street":{"number":2582,"name":"Park Rd"},"city":"Tecumseh","state":"British Columbia","country":"Canada","postcode":"S9V 5S2","coordinates":{"latitude":"-61.8954","longitude":"164.8361"},"timezone":{"offset":"-1:00","description":"Azores, Cape Verde Islands"}},"email":"madison.ross@example.com","login":{"uuid":"bcd64ae1-8139-4312-913b-87fd79e6459c","username":"sadleopard520","password":"casey","salt":"gpMnfjve","md5":"8c752be7166c70e062893c7c6ab44ab0","sha1":"1facd9f2132a9f9f2d73a8edd5a4bada481b3340","sha256":"bdbfef11791359602fba6552a01690320bae7f18cb06180a81f84d4d69958a64"},"dob":{"date":"1996-10-17T19:16:20.165Z","age":23},"registered":{"date":"2016-06-25T01:50:02.220Z","age":3},"phone":"584-235-8278","cell":"990-448-3655","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/46.jpg","medium":"https://randomuser.me/api/portraits/med/women/46.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/46.jpg"},"nat":"CA"}],"info":{"seed":"34f1b9b858b63aac","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:23:59]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:23:59]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:23:59]	Response status code: 200
+[2019-12-17 11:23:59]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Gökhan","last":"Polat"},"location":{"street":{"number":633,"name":"Doktorlar Cd"},"city":"Karabük","state":"Giresun","country":"Turkey","postcode":12242,"coordinates":{"latitude":"71.8264","longitude":"-62.1369"},"timezone":{"offset":"+10:00","description":"Eastern Australia, Guam, Vladivostok"}},"email":"gokhan.polat@example.com","login":{"uuid":"6af12f50-5b6f-48fb-9a78-13d8a462d825","username":"heavyleopard169","password":"party","salt":"wUA0I8Re","md5":"b2132cda1c115ece1e594e113bb14333","sha1":"da8332da0ca8991f2a46c81a32430b50ed38f972","sha256":"9eb9bce30305da3ad5152cd506d5f6dfc8c4eedda0d58f3913416734446264be"},"dob":{"date":"1956-09-02T03:31:55.678Z","age":63},"registered":{"date":"2017-06-20T07:26:30.578Z","age":2},"phone":"(624)-185-1315","cell":"(661)-116-0708","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/54.jpg","medium":"https://randomuser.me/api/portraits/med/men/54.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/54.jpg"},"nat":"TR"}],"info":{"seed":"a177e21f51a25a89","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:24:47]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:24:47]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:24:47]	Response status code: 200
+[2019-12-17 11:24:47]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Artur","last":"Frei"},"location":{"street":{"number":6809,"name":"Blumenstraße"},"city":"Bitburg","state":"Bremen","country":"Germany","postcode":68664,"coordinates":{"latitude":"-45.2502","longitude":"-34.1334"},"timezone":{"offset":"+11:00","description":"Magadan, Solomon Islands, New Caledonia"}},"email":"artur.frei@example.com","login":{"uuid":"13fa214a-eabf-4fe7-b678-7aef75261bb4","username":"heavyleopard548","password":"gilbert","salt":"3MR093Eo","md5":"abfa6df31d58c62630b28b076fefced8","sha1":"16fc956679665984d552b91c7ab36095cccfa526","sha256":"7f01f0824a64a6d29a9c1069700ede6ada80cdb0eb7b1328c7ef36a8cf6cb1f4"},"dob":{"date":"1981-04-14T07:32:53.401Z","age":38},"registered":{"date":"2017-08-08T20:34:47.539Z","age":2},"phone":"0431-4177248","cell":"0174-8872451","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/95.jpg","medium":"https://randomuser.me/api/portraits/med/men/95.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/95.jpg"},"nat":"DE"}],"info":{"seed":"21894c5f013b643a","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:24:59]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:24:59]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:24:59]	Response status code: 200
+[2019-12-17 11:24:59]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Don","last":"Thomas"},"location":{"street":{"number":7921,"name":"W Campbell Ave"},"city":"Devonport","state":"Western Australia","country":"Australia","postcode":2918,"coordinates":{"latitude":"-88.5270","longitude":"-73.5860"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"don.thomas@example.com","login":{"uuid":"4e5ce5e7-2b32-4aa9-8c0e-f2406f09a05e","username":"beautifultiger983","password":"sebring","salt":"iQnkNPLY","md5":"2adf3ce265538abf065910962e219a0d","sha1":"f4142f9a570940422c44acc557092436ba004550","sha256":"5d14d61aa6082bf3687b1215edc8998ddb16a9b581321770a6b59ed0b983f937"},"dob":{"date":"1954-07-09T01:22:15.143Z","age":65},"registered":{"date":"2006-09-15T07:29:11.449Z","age":13},"phone":"04-9066-0386","cell":"0491-039-580","id":{"name":"TFN","value":"545730546"},"picture":{"large":"https://randomuser.me/api/portraits/men/5.jpg","medium":"https://randomuser.me/api/portraits/med/men/5.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/5.jpg"},"nat":"AU"}],"info":{"seed":"949bbb20e04d78bd","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:33:13]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:33:13]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:33:13]	Response status code: 200
+[2019-12-17 11:33:13]	Response body: '{"results":[{"gender":"male","name":{"title":"Monsieur","first":"Georgios","last":"Gautier"},"location":{"street":{"number":2629,"name":"Place des 44 Enfants D\'Izieu"},"city":"Spreitenbach","state":"Genève","country":"Switzerland","postcode":5284,"coordinates":{"latitude":"-56.8277","longitude":"-139.4949"},"timezone":{"offset":"-3:00","description":"Brazil, Buenos Aires, Georgetown"}},"email":"georgios.gautier@example.com","login":{"uuid":"55544d4f-e89a-4dd2-b4b8-b0c5732b6715","username":"sadlion739","password":"corrado","salt":"3IMN11jR","md5":"1e78265a47442f794f2642dcaad1b7af","sha1":"9a555ff73b4f7c2389efdbe9c37f3cbf37d105ce","sha256":"d25ab68db92f2b08706ca2260dbf3ef605e448dad4d9601dce0ad262d3a1e4b2"},"dob":{"date":"1947-06-15T14:58:50.911Z","age":72},"registered":{"date":"2016-03-17T20:17:06.999Z","age":3},"phone":"076 173 40 34","cell":"078 831 69 05","id":{"name":"AVS","value":"756.0459.0101.53"},"picture":{"large":"https://randomuser.me/api/portraits/men/31.jpg","medium":"https://randomuser.me/api/portraits/med/men/31.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/31.jpg"},"nat":"CH"}],"info":{"seed":"70e3a52a332d9ed9","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:34:10]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:34:10]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:34:10]	Response status code: 200
+[2019-12-17 11:34:10]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Anea","last":"Dybdal"},"location":{"street":{"number":1635,"name":"Trettebakken"},"city":"Meldal","state":"Trøndelag","country":"Norway","postcode":"3770","coordinates":{"latitude":"48.9310","longitude":"156.4088"},"timezone":{"offset":"+3:00","description":"Baghdad, Riyadh, Moscow, St. Petersburg"}},"email":"anea.dybdal@example.com","login":{"uuid":"12992e8e-f54e-49e2-a35a-f6a77c54a11e","username":"redwolf459","password":"extra","salt":"ur6K4izm","md5":"1b8e429b3d123db64db7850dd70b0c0b","sha1":"91c30ceda8f1fc8a327c404ccba99a70a14d6533","sha256":"85ab8e4ed7102bc8ca238f7f215ebc8f3edb3a4a21c9004e5475b501779e4465"},"dob":{"date":"1981-04-25T02:14:42.145Z","age":38},"registered":{"date":"2010-02-22T23:01:10.918Z","age":9},"phone":"73260081","cell":"97849043","id":{"name":"FN","value":"25048137272"},"picture":{"large":"https://randomuser.me/api/portraits/women/43.jpg","medium":"https://randomuser.me/api/portraits/med/women/43.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/43.jpg"},"nat":"NO"}],"info":{"seed":"ce27c45190d369de","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:36:14]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:36:14]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:36:14]	Response status code: 200
+[2019-12-17 11:36:14]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"اميرحسين","last":"کوتی"},"location":{"street":{"number":6630,"name":"سمیه"},"city":"مشهد","state":"قزوین","country":"Iran","postcode":98152,"coordinates":{"latitude":"29.6332","longitude":"-75.4507"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"myrhsyn.khwty@example.com","login":{"uuid":"2e1a5b8f-d41f-4ac9-9bef-36eb47d13c0e","username":"tinyzebra321","password":"pink","salt":"2te9OXLg","md5":"dcea657fff0ddc0b3b386e8c6e89cd8a","sha1":"f01ebaa0c740c5d3f04e1aba06949efba44839ce","sha256":"eb409690fbc481f8435fa9b6cd627bfdd306eae9570a6514a7536128dbe9ac1e"},"dob":{"date":"1965-10-20T23:46:28.364Z","age":54},"registered":{"date":"2018-04-12T19:34:29.997Z","age":1},"phone":"024-81270996","cell":"0928-721-5160","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/71.jpg","medium":"https://randomuser.me/api/portraits/med/men/71.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/71.jpg"},"nat":"IR"}],"info":{"seed":"0f20a4ec791868e5","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:36:21]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:36:21]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:36:21]	Response status code: 200
+[2019-12-17 11:36:21]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Ayşe","last":"Koçoğlu"},"location":{"street":{"number":3219,"name":"Kushimoto Sk"},"city":"Iğdır","state":"Hakkâri","country":"Turkey","postcode":83972,"coordinates":{"latitude":"77.9992","longitude":"85.5331"},"timezone":{"offset":"-9:00","description":"Alaska"}},"email":"ayse.kocoglu@example.com","login":{"uuid":"087153f5-d937-4e16-b051-194905f650ca","username":"bigcat636","password":"fredfred","salt":"KlD5gzBb","md5":"1c00110aa84cea82e21fa930f0e7baa9","sha1":"f245598bb7d51becb43af900eadbf6edc9a58c13","sha256":"d461aa7269a4b431e4cab32cf248b9ab7bd8519d684342d703f582b2f294af13"},"dob":{"date":"1958-06-28T15:45:30.118Z","age":61},"registered":{"date":"2012-04-04T17:24:09.750Z","age":7},"phone":"(394)-307-6378","cell":"(685)-108-4589","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/5.jpg","medium":"https://randomuser.me/api/portraits/med/women/5.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/5.jpg"},"nat":"TR"}],"info":{"seed":"f60188ec00049d6d","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:38:18]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:38:18]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:38:18]	Response status code: 200
+[2019-12-17 11:38:18]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Angel","last":"Gil"},"location":{"street":{"number":9922,"name":"Calle de Téllez"},"city":"La Palma","state":"Navarra","country":"Spain","postcode":41558,"coordinates":{"latitude":"-24.8726","longitude":"-68.1901"},"timezone":{"offset":"-6:00","description":"Central Time (US & Canada), Mexico City"}},"email":"angel.gil@example.com","login":{"uuid":"253fa6d5-1d7f-4840-8d90-b33a60e526ee","username":"purplebear733","password":"slapshot","salt":"hYC8Ipar","md5":"eb444a7f615fddd26fbdb25a6249a8d8","sha1":"e701f70003f032b68d5a42925ed653832aaba8d8","sha256":"589435d564d9c6c805abe81f11e6fcd62f0d164c2d45959390454685c945237b"},"dob":{"date":"1957-01-10T22:58:03.919Z","age":62},"registered":{"date":"2006-06-29T16:27:31.818Z","age":13},"phone":"930-831-389","cell":"616-953-413","id":{"name":"DNI","value":"48933012-D"},"picture":{"large":"https://randomuser.me/api/portraits/men/68.jpg","medium":"https://randomuser.me/api/portraits/med/men/68.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/68.jpg"},"nat":"ES"}],"info":{"seed":"8f37f14ab1af72cf","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:41:32]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:41:32]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:41:32]	Response status code: 200
+[2019-12-17 11:41:32]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Gladimira","last":"Freitas"},"location":{"street":{"number":5554,"name":"Avenida da Democracia"},"city":"Belford Roxo","state":"Rio Grande do Norte","country":"Brazil","postcode":38079,"coordinates":{"latitude":"-75.3757","longitude":"35.7695"},"timezone":{"offset":"+9:00","description":"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"}},"email":"gladimira.freitas@example.com","login":{"uuid":"671d801b-4808-4fe6-b085-00edab347c6a","username":"goldenbear131","password":"kappa","salt":"GdH85zDa","md5":"af8af252876d63bdeeb73d3511490a19","sha1":"ef46c0e310075425f667b81034bbc98d8fcab7a2","sha256":"11fe78acb1f381ecdd8740660f54e938cc7f2f1acb6abae65dcae7a75bd0cc35"},"dob":{"date":"1991-12-28T06:50:49.004Z","age":28},"registered":{"date":"2016-09-10T10:39:21.387Z","age":3},"phone":"(71) 2483-6680","cell":"(44) 3863-3933","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/66.jpg","medium":"https://randomuser.me/api/portraits/med/women/66.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/66.jpg"},"nat":"BR"}],"info":{"seed":"242df352bbc280bf","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:42:50]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:42:51]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:42:51]	Response status code: 200
+[2019-12-17 11:42:51]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Brooklyn","last":"Clark"},"location":{"street":{"number":381,"name":"James St"},"city":"Murfreesboro","state":"New York","country":"United States","postcode":86808,"coordinates":{"latitude":"80.3815","longitude":"48.5228"},"timezone":{"offset":"-4:00","description":"Atlantic Time (Canada), Caracas, La Paz"}},"email":"brooklyn.clark@example.com","login":{"uuid":"22b4069a-d625-4d7a-a994-b102758bcfc8","username":"crazypeacock178","password":"morpheus","salt":"AlwYEOyK","md5":"c646539e68a72d294b78f9810d01d8dd","sha1":"1abba20d233de3ad29a0900593d5907ebe432d2a","sha256":"2b2b6d414f75c73248d99c089d79200f3e92bc758e6ce16edaf03c75547c43f0"},"dob":{"date":"1947-02-08T06:27:56.562Z","age":72},"registered":{"date":"2004-06-17T21:52:57.033Z","age":15},"phone":"(357)-797-5770","cell":"(010)-712-1943","id":{"name":"SSN","value":"752-63-1039"},"picture":{"large":"https://randomuser.me/api/portraits/women/44.jpg","medium":"https://randomuser.me/api/portraits/med/women/44.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/44.jpg"},"nat":"US"}],"info":{"seed":"2f8b8e89b778d966","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:43:15]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:43:15]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:43:15]	Response status code: 200
+[2019-12-17 11:43:15]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"William","last":"Herrera"},"location":{"street":{"number":126,"name":"Windsor Road"},"city":"Winchester","state":"Gloucestershire","country":"United Kingdom","postcode":"H27 4FT","coordinates":{"latitude":"6.9161","longitude":"-74.8082"},"timezone":{"offset":"+11:00","description":"Magadan, Solomon Islands, New Caledonia"}},"email":"william.herrera@example.com","login":{"uuid":"f6f0ff69-d706-48f9-a636-51c79986e8f4","username":"browngorilla390","password":"herring","salt":"YEbyG0MO","md5":"3a2fe05553a24d89efc1d1647f02902c","sha1":"174ec571c9c77b516c7c9c8c4e04cd63725ab610","sha256":"202155d18067b163a4762a39752cacfd505a2d899b0e7bc02aa083ab2ad5ee30"},"dob":{"date":"1948-10-14T14:32:30.796Z","age":71},"registered":{"date":"2015-09-13T21:00:48.352Z","age":4},"phone":"016974 71281","cell":"0771-845-702","id":{"name":"NINO","value":"HT 08 42 78 E"},"picture":{"large":"https://randomuser.me/api/portraits/men/47.jpg","medium":"https://randomuser.me/api/portraits/med/men/47.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/47.jpg"},"nat":"GB"}],"info":{"seed":"a0c751ba6a3bf0b8","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:44:37]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:44:37]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:44:37]	Response status code: 200
+[2019-12-17 11:44:52]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:44:52]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:44:52]	Response status code: 200
+[2019-12-17 11:44:52]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Gary","last":"West"},"location":{"street":{"number":6856,"name":"West Street"},"city":"Salford","state":"Greater Manchester","country":"United Kingdom","postcode":"JH50 6DQ","coordinates":{"latitude":"10.9239","longitude":"-10.3365"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"gary.west@example.com","login":{"uuid":"5f1afb68-8047-4fec-8d67-e761c642d300","username":"happykoala926","password":"steven1","salt":"IatD86XF","md5":"a5fc23dd14569cad4c90716469065e2e","sha1":"d1ad2399f899552af11e1882024200e8a1f73197","sha256":"4b0a3ba038f89df1562773a9f89ad24fc68ce8a2a3764fafa5b3147db2946d63"},"dob":{"date":"1969-01-06T20:06:56.881Z","age":50},"registered":{"date":"2009-02-05T04:27:34.604Z","age":10},"phone":"017687 48946","cell":"0796-737-674","id":{"name":"NINO","value":"HN 98 15 42 P"},"picture":{"large":"https://randomuser.me/api/portraits/men/11.jpg","medium":"https://randomuser.me/api/portraits/med/men/11.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/11.jpg"},"nat":"GB"}],"info":{"seed":"2d61dd1530cbcfea","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:45:26]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:45:26]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:45:26]	Response status code: 200
+[2019-12-17 11:45:26]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Gabrielle","last":"Campbell"},"location":{"street":{"number":8046,"name":"Disputed Rd"},"city":"Summerside","state":"New Brunswick","country":"Canada","postcode":"H8R 4R2","coordinates":{"latitude":"-63.8128","longitude":"107.9754"},"timezone":{"offset":"-12:00","description":"Eniwetok, Kwajalein"}},"email":"gabrielle.campbell@example.com","login":{"uuid":"7260c6d4-005d-434a-b91d-8d8fbdc8d1a7","username":"smalllion862","password":"astros","salt":"cuZosO7L","md5":"a1cde8346e73ed48d24bbb238ad3c05d","sha1":"028c288965e0927b0a729b394011eeddee79051f","sha256":"fa603a51b7c57f9d6cf1bf16e943eeb5ee52df2c87a6d1dc227444efb86be334"},"dob":{"date":"1972-01-21T10:43:55.746Z","age":47},"registered":{"date":"2019-06-18T10:49:25.197Z","age":0},"phone":"885-806-4788","cell":"721-025-5840","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/66.jpg","medium":"https://randomuser.me/api/portraits/med/women/66.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/66.jpg"},"nat":"CA"}],"info":{"seed":"b386da65fb4c2c19","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:47:31]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:47:31]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:47:31]	Response status code: 200
+[2019-12-17 11:47:31]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Adrian","last":"Carmona"},"location":{"street":{"number":7890,"name":"Calle de Alcalá"},"city":"Pontevedra","state":"Galicia","country":"Spain","postcode":83348,"coordinates":{"latitude":"-26.2439","longitude":"-53.1424"},"timezone":{"offset":"-6:00","description":"Central Time (US & Canada), Mexico City"}},"email":"adrian.carmona@example.com","login":{"uuid":"023c4bad-f9a6-43ac-99b5-745271e3e89e","username":"sadfrog515","password":"mannn","salt":"8KQzoOXw","md5":"ec9eb96e9353a265a62cee4508c8b3ca","sha1":"11530d7ccff12bcdaaa54129d424099bda249778","sha256":"3995f631a03065f5b28380f488e1069fe748d29f112172c95a25cb3a15894035"},"dob":{"date":"1960-10-16T03:03:00.101Z","age":59},"registered":{"date":"2008-06-18T08:21:11.880Z","age":11},"phone":"941-828-559","cell":"642-086-873","id":{"name":"DNI","value":"61412861-C"},"picture":{"large":"https://randomuser.me/api/portraits/men/14.jpg","medium":"https://randomuser.me/api/portraits/med/men/14.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/14.jpg"},"nat":"ES"}],"info":{"seed":"693b882b529dbc79","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:47:51]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:47:51]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:47:51]	Response status code: 200
+[2019-12-17 11:47:51]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Adem","last":"Solmaz"},"location":{"street":{"number":5463,"name":"Atatürk Sk"},"city":"Muş","state":"Şanlıurfa","country":"Turkey","postcode":26186,"coordinates":{"latitude":"74.7072","longitude":"-18.3708"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"adem.solmaz@example.com","login":{"uuid":"1b1809c2-124e-4b40-ad12-f02f2f2f3d07","username":"beautifuldog978","password":"skate","salt":"gkt4UrdM","md5":"0d0d1be5c46d0492adfecca942f44ce4","sha1":"417d77f00e0332da1b0634953a2c162c4e87e36e","sha256":"a269efdff5866cdaab23af572fd12106b39a3fbc58eea1a39765c4ca20ff974b"},"dob":{"date":"1944-11-26T20:21:41.077Z","age":75},"registered":{"date":"2004-12-08T22:06:39.945Z","age":15},"phone":"(191)-928-0479","cell":"(007)-024-8935","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/95.jpg","medium":"https://randomuser.me/api/portraits/med/men/95.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/95.jpg"},"nat":"TR"}],"info":{"seed":"2972f2b5139d26dc","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:48:02]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:48:02]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:48:02]	Response status code: 200
+[2019-12-17 11:48:02]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Romana","last":"Gonçalves"},"location":{"street":{"number":2906,"name":"Rua São Paulo "},"city":"Angra dos Reis","state":"Rio de Janeiro","country":"Brazil","postcode":26422,"coordinates":{"latitude":"-72.8822","longitude":"66.6180"},"timezone":{"offset":"+3:30","description":"Tehran"}},"email":"romana.goncalves@example.com","login":{"uuid":"c8a94c0a-2bff-47a8-a1e1-68541290e3f5","username":"beautifulkoala564","password":"trash","salt":"R70ENFhf","md5":"d35aa5182ff8b8ece2cdf69460aa2388","sha1":"1906573808484c63b7ba6e63666dba7e410a8424","sha256":"99ba2f18640a673a1d45536e5df8989ad2d97fc6e2a9300b31e6ff8040c59ec5"},"dob":{"date":"1964-03-26T10:28:14.435Z","age":55},"registered":{"date":"2007-02-27T20:15:27.784Z","age":12},"phone":"(16) 0929-3722","cell":"(26) 6244-8481","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/9.jpg","medium":"https://randomuser.me/api/portraits/med/women/9.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/9.jpg"},"nat":"BR"}],"info":{"seed":"47065fd1b0bb3d06","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:48:13]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:48:13]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:48:13]	Response status code: 200
+[2019-12-17 11:48:13]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Zélio","last":"das Neves"},"location":{"street":{"number":2529,"name":"Rua Quatro"},"city":"Jacareí","state":"Minas Gerais","country":"Brazil","postcode":44274,"coordinates":{"latitude":"-77.1841","longitude":"-128.5579"},"timezone":{"offset":"0:00","description":"Western Europe Time, London, Lisbon, Casablanca"}},"email":"zelio.dasneves@example.com","login":{"uuid":"f5749776-16fd-476d-8454-43c438af21c4","username":"greenfish355","password":"dang","salt":"gy91Ex1W","md5":"73c4a461bcb76a751c2ff8c606aae343","sha1":"8429b1046d25291a65e6148c9d5d0725f0737215","sha256":"9078bc45e84404d252a3f3ff934fea89aa2f667bac4ae628c82b1a0fa786de05"},"dob":{"date":"1957-02-10T16:37:45.214Z","age":62},"registered":{"date":"2016-03-02T23:54:08.936Z","age":3},"phone":"(25) 6911-7216","cell":"(24) 2816-1572","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/26.jpg","medium":"https://randomuser.me/api/portraits/med/men/26.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/26.jpg"},"nat":"BR"}],"info":{"seed":"3452dfb357aff4f2","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:48:28]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:48:28]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:48:28]	Response status code: 200
+[2019-12-17 11:48:28]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Carolina","last":"Peña"},"location":{"street":{"number":618,"name":"Calle del Prado"},"city":"Talavera de la Reina","state":"Comunidad de Madrid","country":"Spain","postcode":21327,"coordinates":{"latitude":"-16.4200","longitude":"108.1757"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"carolina.pena@example.com","login":{"uuid":"3b7c0dd8-2109-4ddb-9db6-b50293e6ba1f","username":"happypanda383","password":"pornporn","salt":"gcJ2YSe2","md5":"444b187e27f24f9a00b89debdf312dd4","sha1":"eea7e0ef3014dbfbbce98a3f11fafa892bd81309","sha256":"a5ec7c57937b9b2baf0578bc9f487001c473b29fae0deeb0b51c34da681a42c1"},"dob":{"date":"1946-05-12T16:23:06.589Z","age":73},"registered":{"date":"2004-12-23T08:54:05.176Z","age":15},"phone":"929-376-093","cell":"641-304-615","id":{"name":"DNI","value":"00617352-S"},"picture":{"large":"https://randomuser.me/api/portraits/women/54.jpg","medium":"https://randomuser.me/api/portraits/med/women/54.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/54.jpg"},"nat":"ES"}],"info":{"seed":"35f1223d4fb83b7c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:48:32]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:48:32]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:48:32]	Response status code: 200
+[2019-12-17 11:48:32]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"John","last":"Leon"},"location":{"street":{"number":7751,"name":"Ronda de Toledo"},"city":"Torrente","state":"Región de Murcia","country":"Spain","postcode":26597,"coordinates":{"latitude":"-20.2774","longitude":"-2.2414"},"timezone":{"offset":"-6:00","description":"Central Time (US & Canada), Mexico City"}},"email":"john.leon@example.com","login":{"uuid":"973cfef2-9ecf-486f-9d4a-1977212b5b52","username":"crazyostrich169","password":"snapper","salt":"L5U7Iy7h","md5":"a78ed9138a1c76cc71af69ac36500ae4","sha1":"fab14c0cf0fc87d2add94b9130f5cbf70ca4701d","sha256":"ba1123bcca8c04d9c2f8a65cf378966bde75f6139ea69d7e7efed291dc5d4253"},"dob":{"date":"1975-08-26T02:15:30.203Z","age":44},"registered":{"date":"2009-12-17T05:47:10.062Z","age":10},"phone":"911-173-631","cell":"692-533-711","id":{"name":"DNI","value":"00135094-T"},"picture":{"large":"https://randomuser.me/api/portraits/men/47.jpg","medium":"https://randomuser.me/api/portraits/med/men/47.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/47.jpg"},"nat":"ES"}],"info":{"seed":"79ceef0db3d55b27","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:49:05]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:49:05]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:49:05]	Response status code: 200
+[2019-12-17 11:49:05]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Jon","last":"Leidland"},"location":{"street":{"number":5878,"name":"Årrundveien"},"city":"Hemnesberget","state":"Hordaland","country":"Norway","postcode":"6995","coordinates":{"latitude":"49.7451","longitude":"-33.3034"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"jon.leidland@example.com","login":{"uuid":"7719f450-3e90-49fa-9fcc-a36efa518de6","username":"smallrabbit707","password":"wildman","salt":"n4McJ8NZ","md5":"9c2be3e12ab762ff92994eb92b13c11b","sha1":"ff169a9e03b11914fc9e7409decf81abb65b9a08","sha256":"0bee2bf0ebe9c644c837201df98bd0b10aa0f0d63fe0dbe1074e49a9e8be674e"},"dob":{"date":"1956-01-09T03:22:18.351Z","age":63},"registered":{"date":"2009-07-30T05:48:03.647Z","age":10},"phone":"86305893","cell":"43175576","id":{"name":"FN","value":"09015630148"},"picture":{"large":"https://randomuser.me/api/portraits/men/89.jpg","medium":"https://randomuser.me/api/portraits/med/men/89.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/89.jpg"},"nat":"NO"}],"info":{"seed":"3e8488263eb78023","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:49:34]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:49:34]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:49:34]	Response status code: 200
+[2019-12-17 11:49:34]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Saana","last":"Rautio"},"location":{"street":{"number":3051,"name":"Fredrikinkatu"},"city":"Lumparland","state":"South Karelia","country":"Finland","postcode":65314,"coordinates":{"latitude":"-13.0158","longitude":"156.1772"},"timezone":{"offset":"+5:30","description":"Bombay, Calcutta, Madras, New Delhi"}},"email":"saana.rautio@example.com","login":{"uuid":"dcdb427b-9844-4b58-aee8-5b9fa643c3e3","username":"lazyfrog752","password":"tacoma","salt":"GrrStGO6","md5":"2035f3ab859a0437ed76981baf5e57ea","sha1":"c622b6537399308dd6c2e45864ed76f8bda52aa3","sha256":"5310b9e94ee9d762ada882761930bb4b08e16c14514198018a93db8c2c5fd19e"},"dob":{"date":"1975-04-20T20:03:39.502Z","age":44},"registered":{"date":"2019-03-04T21:57:28.174Z","age":0},"phone":"05-227-282","cell":"042-074-77-70","id":{"name":"HETU","value":"NaNNA578undefined"},"picture":{"large":"https://randomuser.me/api/portraits/women/61.jpg","medium":"https://randomuser.me/api/portraits/med/women/61.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/61.jpg"},"nat":"FI"}],"info":{"seed":"8e453ff735509b19","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:50:02]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:50:02]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:50:02]	Response status code: 200
+[2019-12-17 11:50:02]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Linde","last":"Sanders"},"location":{"street":{"number":8736,"name":"De Uitkomst"},"city":"Harich","state":"Utrecht","country":"Netherlands","postcode":73735,"coordinates":{"latitude":"45.4578","longitude":"15.8500"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"linde.sanders@example.com","login":{"uuid":"8971d65c-b087-421a-9ad2-3b34730f32d1","username":"blackduck773","password":"style","salt":"cICjeOYP","md5":"e162714292df5bff24e3d89191c13c7e","sha1":"5b438c839ba356dee90f8c1ec4d0dfcefba2af4a","sha256":"ce970c46120fa84321ada55a816ac7a4b877938f9b878cc97af5e40a57637bcf"},"dob":{"date":"1954-11-05T16:16:39.224Z","age":65},"registered":{"date":"2006-11-12T06:06:05.668Z","age":13},"phone":"(109)-218-0275","cell":"(438)-651-0724","id":{"name":"BSN","value":"24871963"},"picture":{"large":"https://randomuser.me/api/portraits/women/42.jpg","medium":"https://randomuser.me/api/portraits/med/women/42.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/42.jpg"},"nat":"NL"}],"info":{"seed":"6fe91c53a662962c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:50:23]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:50:23]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:50:23]	Response status code: 200
+[2019-12-17 11:50:23]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Efe","last":"Ertepınar"},"location":{"street":{"number":6660,"name":"Necatibey Cd"},"city":"Sinop","state":"Bursa","country":"Turkey","postcode":74051,"coordinates":{"latitude":"77.6091","longitude":"-166.0893"},"timezone":{"offset":"-8:00","description":"Pacific Time (US & Canada)"}},"email":"efe.ertepinar@example.com","login":{"uuid":"462a8b3b-41a1-4f3d-8ba8-f10871f49c57","username":"redleopard957","password":"pizzas","salt":"sgNh8nZF","md5":"da63306e2be843d0eee89297e68b1582","sha1":"eda082331de881b9c54724e2b4d9b236ea6a4a7a","sha256":"30cacafeb535af8f1eb61fb68c79ff16702a4f97a99f2428e81b3c421ca89b53"},"dob":{"date":"1948-06-21T13:30:11.670Z","age":71},"registered":{"date":"2003-04-08T20:43:31.041Z","age":16},"phone":"(409)-257-3489","cell":"(722)-654-7783","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/54.jpg","medium":"https://randomuser.me/api/portraits/med/men/54.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/54.jpg"},"nat":"TR"}],"info":{"seed":"e9c484a7e206162c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:50:35]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:50:35]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:50:35]	Response status code: 200
+[2019-12-17 11:50:35]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Helene","last":"Flaa"},"location":{"street":{"number":4782,"name":"Bakkeveien"},"city":"Finnestad","state":"Rogaland","country":"Norway","postcode":"8742","coordinates":{"latitude":"56.3492","longitude":"154.6233"},"timezone":{"offset":"-9:00","description":"Alaska"}},"email":"helene.flaa@example.com","login":{"uuid":"6381702a-b10c-4ede-8ebd-bb0c790b716f","username":"ticklishpeacock754","password":"private1","salt":"edU314c4","md5":"0b87430f92d4e54088014470c9b06f18","sha1":"ca16ad717a7f6624e8bbd413c6a4af84969d6f8a","sha256":"da1b925d93c06946083dd7c739318986fe410a0742cebb29be8c9857476e773c"},"dob":{"date":"1947-09-06T18:58:21.644Z","age":72},"registered":{"date":"2015-08-30T15:09:09.908Z","age":4},"phone":"60740491","cell":"95758411","id":{"name":"FN","value":"06094728205"},"picture":{"large":"https://randomuser.me/api/portraits/women/46.jpg","medium":"https://randomuser.me/api/portraits/med/women/46.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/46.jpg"},"nat":"NO"}],"info":{"seed":"fbd67f271a29f8a9","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:50:53]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:50:53]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:50:53]	Response status code: 200
+[2019-12-17 11:50:53]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Vanda","last":"Fogaça"},"location":{"street":{"number":83,"name":"Rua José Bonifácio "},"city":"Linhares","state":"Santa Catarina","country":"Brazil","postcode":87852,"coordinates":{"latitude":"-74.5562","longitude":"29.2037"},"timezone":{"offset":"-6:00","description":"Central Time (US & Canada), Mexico City"}},"email":"vanda.fogaca@example.com","login":{"uuid":"e743057d-db80-4149-b6bc-517fff735fc7","username":"silverfrog194","password":"qwertyui","salt":"RFbgrKnA","md5":"998464aaaff49f5f2a3e5ddbd2c4216e","sha1":"9a6e996430d83e0660048e9596a672fedfe12c19","sha256":"c51bd234017651b9c98d7943230fec07e9705453e3825363ba733002ea54411b"},"dob":{"date":"1969-07-26T04:51:17.033Z","age":50},"registered":{"date":"2019-05-24T21:59:10.559Z","age":0},"phone":"(94) 2397-4933","cell":"(34) 2276-7524","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/94.jpg","medium":"https://randomuser.me/api/portraits/med/women/94.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/94.jpg"},"nat":"BR"}],"info":{"seed":"df82cd66dc260e71","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:51:08]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:51:08]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:51:08]	Response status code: 200
+[2019-12-17 11:51:08]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Volkan","last":"Özgörkey"},"location":{"street":{"number":9738,"name":"Abanoz Sk"},"city":"Çankırı","state":"Gümüşhane","country":"Turkey","postcode":10211,"coordinates":{"latitude":"76.7727","longitude":"-101.3889"},"timezone":{"offset":"+3:30","description":"Tehran"}},"email":"volkan.ozgorkey@example.com","login":{"uuid":"ff9f6350-6549-4ad2-bca9-74a394d33405","username":"redmouse535","password":"ricardo","salt":"zvrJPZhp","md5":"4a5bcefd0eadbed1570c142679db6063","sha1":"1690afc60f1241788ca3b7742cbc1819d63eecac","sha256":"55510505ae3b5c313176588c6b65214fec1272f124b8547db9ba11881867b038"},"dob":{"date":"1960-09-13T16:56:34.964Z","age":59},"registered":{"date":"2013-05-29T00:38:21.034Z","age":6},"phone":"(528)-122-0323","cell":"(255)-886-2354","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/22.jpg","medium":"https://randomuser.me/api/portraits/med/men/22.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/22.jpg"},"nat":"TR"}],"info":{"seed":"388473a575601858","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:51:13]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:51:13]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:51:13]	Response status code: 200
+[2019-12-17 11:51:13]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Ülkü","last":"Mayhoş"},"location":{"street":{"number":6865,"name":"Maçka Cd"},"city":"Isparta","state":"Bartın","country":"Turkey","postcode":11199,"coordinates":{"latitude":"72.0799","longitude":"41.4163"},"timezone":{"offset":"0:00","description":"Western Europe Time, London, Lisbon, Casablanca"}},"email":"ulku.mayhos@example.com","login":{"uuid":"e9c7ab6e-0bef-4348-8ded-17c2ed6fb5b7","username":"ticklishbutterfly500","password":"trinidad","salt":"S37opFX2","md5":"902f03f787b6e273012e495163e36fe9","sha1":"f219de994886bf7038b3bc0ae93339d7b083e1df","sha256":"09a53d07bc15dcdfa551c68e9d0e18633d21b9c66e7fa40ea42b116a34476095"},"dob":{"date":"1986-06-09T06:26:46.605Z","age":33},"registered":{"date":"2004-08-12T01:23:58.780Z","age":15},"phone":"(839)-737-4709","cell":"(869)-054-8932","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/87.jpg","medium":"https://randomuser.me/api/portraits/med/women/87.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/87.jpg"},"nat":"TR"}],"info":{"seed":"3a6963e90a42b62e","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:51:41]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:51:41]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:51:41]	Response status code: 200
+[2019-12-17 11:51:41]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"سوگند","last":"مرادی"},"location":{"street":{"number":753,"name":"شهید شواخ"},"city":"کرمانشاه","state":"کهگیلویه و بویراحمد","country":"Iran","postcode":33111,"coordinates":{"latitude":"28.3353","longitude":"156.4660"},"timezone":{"offset":"0:00","description":"Western Europe Time, London, Lisbon, Casablanca"}},"email":"swgnd.mrdy@example.com","login":{"uuid":"892617ee-45a3-4914-ba0c-6ef39bb8bb12","username":"smallgoose928","password":"5150","salt":"vOoJfrRM","md5":"8ae2cfe3cb3f20d8633ac0b2dec5d895","sha1":"d3d5dad99991f139889afc9afe7fe53e04cc51ce","sha256":"dab3f8785f5fa0b4ebda2e26b71510ad1a966b79dff962efbd78f586d5875aac"},"dob":{"date":"1998-05-15T11:09:10.396Z","age":21},"registered":{"date":"2006-07-30T15:21:59.163Z","age":13},"phone":"077-56601926","cell":"0906-438-2898","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/58.jpg","medium":"https://randomuser.me/api/portraits/med/women/58.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/58.jpg"},"nat":"IR"}],"info":{"seed":"d20351c42cb960ad","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:51:50]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:51:50]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:51:50]	Response status code: 200
+[2019-12-17 11:51:50]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"عسل","last":"کریمی"},"location":{"street":{"number":2337,"name":"نبرد جنوبی"},"city":"قرچک","state":"خراسان شمالی","country":"Iran","postcode":65520,"coordinates":{"latitude":"34.5239","longitude":"108.3159"},"timezone":{"offset":"-9:00","description":"Alaska"}},"email":"aasl.khrymy@example.com","login":{"uuid":"8d813da5-97a1-43bc-bc30-2d87dbc07b68","username":"angrycat847","password":"commande","salt":"BOemTWRW","md5":"ca62e99386b06cddfab4ad32cc021b57","sha1":"8c61a19382bfb28b83999cd27d02cf610ad2607b","sha256":"2036a7380e30415a0fcbc829e04db7a3f294532c9eb9dc369dcc8de213c7076d"},"dob":{"date":"1973-01-13T13:44:13.988Z","age":46},"registered":{"date":"2010-10-22T03:05:48.362Z","age":9},"phone":"077-04735679","cell":"0932-941-6442","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/82.jpg","medium":"https://randomuser.me/api/portraits/med/women/82.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/82.jpg"},"nat":"IR"}],"info":{"seed":"55e72379d101d9f6","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:51:51]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:51:51]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:51:51]	Response status code: 200
+[2019-12-17 11:51:51]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Marie","last":"Pedersen"},"location":{"street":{"number":8146,"name":"Strandparken"},"city":"København S","state":"Danmark","country":"Denmark","postcode":56431,"coordinates":{"latitude":"-36.7882","longitude":"26.6433"},"timezone":{"offset":"+5:00","description":"Ekaterinburg, Islamabad, Karachi, Tashkent"}},"email":"marie.pedersen@example.com","login":{"uuid":"ab9bdc60-8fd3-4987-9a42-78776c42806d","username":"blueladybug601","password":"darklord","salt":"7ZmLIBdQ","md5":"f80c042d24eaa7f882264aa523908f54","sha1":"82ff57b1d708e38843fe324c7b6ccc2f9368b2ed","sha256":"c0d2f00ed3877a727f6a466efc92d2047eb49df0f025d56f8f86d67962bca985"},"dob":{"date":"1971-06-16T08:35:08.709Z","age":48},"registered":{"date":"2010-04-10T18:32:48.029Z","age":9},"phone":"82150483","cell":"28971872","id":{"name":"CPR","value":"160671-6917"},"picture":{"large":"https://randomuser.me/api/portraits/women/37.jpg","medium":"https://randomuser.me/api/portraits/med/women/37.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/37.jpg"},"nat":"DK"}],"info":{"seed":"bccea87ff23597e5","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:52:02]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:52:02]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:52:02]	Response status code: 200
+[2019-12-17 11:52:02]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Latife","last":"Uluhan"},"location":{"street":{"number":6919,"name":"Istiklal Cd"},"city":"İzmir","state":"Muğla","country":"Turkey","postcode":16262,"coordinates":{"latitude":"74.7208","longitude":"59.2107"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"latife.uluhan@example.com","login":{"uuid":"9d4cb769-1444-4edc-9f72-0b4431c29143","username":"blackbear748","password":"holmes","salt":"rpq51X28","md5":"3251d454eff91ebdd569f2999705fd4c","sha1":"194adb9ec1231288936515a4fa1727687e9f34b8","sha256":"c420cb466ec056813cea8ef01f8db15b4bc805bbd7b14ea0cea24f64ca7ae820"},"dob":{"date":"1960-11-29T01:30:57.187Z","age":59},"registered":{"date":"2007-02-16T11:48:31.642Z","age":12},"phone":"(081)-612-2983","cell":"(821)-541-7835","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/22.jpg","medium":"https://randomuser.me/api/portraits/med/women/22.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/22.jpg"},"nat":"TR"}],"info":{"seed":"bac8efdd6a7bfd69","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:52:08]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:52:08]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:52:08]	Response status code: 200
+[2019-12-17 11:52:08]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Ilona","last":"Kangas"},"location":{"street":{"number":3550,"name":"Hämeenkatu"},"city":"Jämijärvi","state":"Åland","country":"Finland","postcode":23721,"coordinates":{"latitude":"-7.4899","longitude":"49.5394"},"timezone":{"offset":"+5:30","description":"Bombay, Calcutta, Madras, New Delhi"}},"email":"ilona.kangas@example.com","login":{"uuid":"64db533f-2a66-4573-be52-53dc52523b44","username":"blackfrog291","password":"fletch","salt":"PyAtCoQ6","md5":"34cc9381986b8df62f3741612cbedb37","sha1":"dc232b263edfae399dfdbfc6db00740d504197b7","sha256":"c6a6ec6ee51155071de1126b7eb8230cddbe394a1785282bfd43ff2e51077b35"},"dob":{"date":"1989-04-17T04:31:06.968Z","age":30},"registered":{"date":"2015-05-14T13:58:56.573Z","age":4},"phone":"03-312-722","cell":"044-947-27-00","id":{"name":"HETU","value":"NaNNA084undefined"},"picture":{"large":"https://randomuser.me/api/portraits/women/32.jpg","medium":"https://randomuser.me/api/portraits/med/women/32.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/32.jpg"},"nat":"FI"}],"info":{"seed":"166b2e1a11334f6c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:52:30]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:52:30]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:52:30]	Response status code: 200
+[2019-12-17 11:52:30]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Ethan","last":"Iqbal"},"location":{"street":{"number":5862,"name":"Bjørnheimveien"},"city":"Straumen","state":"Buskerud","country":"Norway","postcode":"9586","coordinates":{"latitude":"53.3896","longitude":"-78.9802"},"timezone":{"offset":"+4:30","description":"Kabul"}},"email":"ethan.iqbal@example.com","login":{"uuid":"46a91c25-ba69-4139-8cec-a0b87c6014bc","username":"tinypeacock701","password":"shadows","salt":"RPzLhpMG","md5":"3cd767d45ceeefad136f52a259221880","sha1":"c092ff1a492f12ac63fdbb8f4e8b84f752c6cf6d","sha256":"9620552154358535dad1abf63933180f42a6cc72ce4e4c2ce5ec286d7bfaa2d1"},"dob":{"date":"1946-05-10T02:35:44.545Z","age":73},"registered":{"date":"2015-01-12T12:53:16.408Z","age":4},"phone":"58400267","cell":"49972023","id":{"name":"FN","value":"10054612961"},"picture":{"large":"https://randomuser.me/api/portraits/men/52.jpg","medium":"https://randomuser.me/api/portraits/med/men/52.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/52.jpg"},"nat":"NO"}],"info":{"seed":"0fc05bb48876442a","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:52:38]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:52:38]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:52:38]	Response status code: 200
+[2019-12-17 11:52:38]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Leslie","last":"Barnett"},"location":{"street":{"number":1851,"name":"York Road"},"city":"Bristol","state":"Humberside","country":"United Kingdom","postcode":"RR5 5DU","coordinates":{"latitude":"14.6543","longitude":"-40.4431"},"timezone":{"offset":"+3:30","description":"Tehran"}},"email":"leslie.barnett@example.com","login":{"uuid":"9092f283-dfa5-4167-a564-2d8e949d30b8","username":"greenfish250","password":"floyd","salt":"Z9OveyCA","md5":"fd397b73c2136949153dcd9fc1c1ea3e","sha1":"cb0f56278e0303072fc7ace05ca3a76db9df0554","sha256":"30339efb6a89957c67e5b4ed92162b75d933a0b33fe4fda812628ad81ca5bc58"},"dob":{"date":"1989-02-01T03:55:36.840Z","age":30},"registered":{"date":"2011-12-22T13:20:03.759Z","age":8},"phone":"019467 25603","cell":"0787-973-575","id":{"name":"NINO","value":"EB 77 14 55 T"},"picture":{"large":"https://randomuser.me/api/portraits/men/89.jpg","medium":"https://randomuser.me/api/portraits/med/men/89.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/89.jpg"},"nat":"GB"}],"info":{"seed":"88182cea4ce7d5cc","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:52:52]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:52:52]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:52:52]	Response status code: 200
+[2019-12-17 11:52:52]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Phoebe","last":"Mills"},"location":{"street":{"number":9239,"name":"Manchester Road"},"city":"Preston","state":"Northumberland","country":"United Kingdom","postcode":"O8X 4RJ","coordinates":{"latitude":"8.5539","longitude":"60.1458"},"timezone":{"offset":"-3:00","description":"Brazil, Buenos Aires, Georgetown"}},"email":"phoebe.mills@example.com","login":{"uuid":"c9c5e6bb-f6c7-492c-9f09-50ec082b7313","username":"organicgoose149","password":"2469","salt":"yXCJlVt9","md5":"d692a4f9a7fccf78b5f0d0401026a3ed","sha1":"09e232841d19f505e6b1bb113f7b87371723ca7e","sha256":"ae145fb8dd84a147105ffe19a3a0346cfebf52e0a5f0bc44a3f1d5ceb611d6b9"},"dob":{"date":"1993-08-20T17:15:23.389Z","age":26},"registered":{"date":"2015-05-30T20:52:46.986Z","age":4},"phone":"017687 79711","cell":"0785-240-380","id":{"name":"NINO","value":"AZ 65 29 28 K"},"picture":{"large":"https://randomuser.me/api/portraits/women/0.jpg","medium":"https://randomuser.me/api/portraits/med/women/0.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/0.jpg"},"nat":"GB"}],"info":{"seed":"6f6f82a54b8f3bce","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:53:07]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:53:07]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:53:07]	Response status code: 200
+[2019-12-17 11:53:07]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Rita","last":"Bates"},"location":{"street":{"number":3878,"name":"Robinson Rd"},"city":"Olathe","state":"Vermont","country":"United States","postcode":57206,"coordinates":{"latitude":"82.9386","longitude":"53.0177"},"timezone":{"offset":"+9:00","description":"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"}},"email":"rita.bates@example.com","login":{"uuid":"c0fd6bae-84ba-4842-8472-1a7f4398c1de","username":"bigbutterfly669","password":"jasper","salt":"rSPGrlqq","md5":"3801ab85ded6ac2c00bd053bb8bfd655","sha1":"b3ee2eb21962e3f179c7da2dfacbd55678b9db55","sha256":"6f3ac2227de81b9ab757910543191eeba4159b624a5be40477832d49c06a6420"},"dob":{"date":"1969-02-15T12:26:56.948Z","age":50},"registered":{"date":"2019-08-28T07:08:10.990Z","age":0},"phone":"(265)-708-9297","cell":"(722)-901-4877","id":{"name":"SSN","value":"876-34-5045"},"picture":{"large":"https://randomuser.me/api/portraits/women/24.jpg","medium":"https://randomuser.me/api/portraits/med/women/24.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/24.jpg"},"nat":"US"}],"info":{"seed":"1661d0bab2b58776","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:55:40]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:55:40]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:55:40]	Response status code: 200
+[2019-12-17 11:55:40]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Cesar","last":"Ibañez"},"location":{"street":{"number":1862,"name":"Avenida del Planetario"},"city":"Barcelona","state":"Castilla y León","country":"Spain","postcode":99177,"coordinates":{"latitude":"-18.2475","longitude":"-85.2459"},"timezone":{"offset":"-12:00","description":"Eniwetok, Kwajalein"}},"email":"cesar.ibanez@example.com","login":{"uuid":"3702315f-68ad-4367-9926-4800d2581e2d","username":"bluegorilla377","password":"maxine","salt":"AHO1oyCe","md5":"a3838d1f6d65d0f8de971c6b1f824eab","sha1":"938fa1bcc1f2525f1a93307568e3669ee6c722d2","sha256":"f908194ac5578814fc9582523887a99685842a39b4859a282c81147cb9293c9c"},"dob":{"date":"1973-09-04T01:38:41.345Z","age":46},"registered":{"date":"2002-12-30T15:51:24.846Z","age":17},"phone":"981-351-918","cell":"665-687-211","id":{"name":"DNI","value":"63469511-A"},"picture":{"large":"https://randomuser.me/api/portraits/men/4.jpg","medium":"https://randomuser.me/api/portraits/med/men/4.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/4.jpg"},"nat":"ES"}],"info":{"seed":"592d535c88a1ca20","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:30]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:30]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:30]	Response status code: 200
+[2019-12-17 11:56:30]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Magnus","last":"Mortensen"},"location":{"street":{"number":2023,"name":"Jyllandsgade"},"city":"Stoevring","state":"Nordjylland","country":"Denmark","postcode":75348,"coordinates":{"latitude":"-32.6634","longitude":"-70.9158"},"timezone":{"offset":"+2:00","description":"Kaliningrad, South Africa"}},"email":"magnus.mortensen@example.com","login":{"uuid":"88836dab-b8e9-4901-ba22-55be6f1bec80","username":"bluedog384","password":"penelope","salt":"QI5MJcf0","md5":"3133405b64561df6b7cc9126d90c3923","sha1":"3956bd0a6c52d3b06f5fa6a8161f892e534fb9c4","sha256":"5680c6de3f144be7ebfdcd463c0230a765bf159e12cdce9833c9c34e0f26e0fb"},"dob":{"date":"1963-07-21T03:30:33.312Z","age":56},"registered":{"date":"2014-08-14T02:07:43.867Z","age":5},"phone":"39078750","cell":"40639935","id":{"name":"CPR","value":"210763-5002"},"picture":{"large":"https://randomuser.me/api/portraits/men/89.jpg","medium":"https://randomuser.me/api/portraits/med/men/89.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/89.jpg"},"nat":"DK"}],"info":{"seed":"af083c8452e97904","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:45]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:45]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:45]	Response status code: 200
+[2019-12-17 11:56:45]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Cecilie","last":"Jørgensen"},"location":{"street":{"number":5917,"name":"Skoleparken"},"city":"København S","state":"Danmark","country":"Denmark","postcode":62353,"coordinates":{"latitude":"-33.3970","longitude":"169.5033"},"timezone":{"offset":"-8:00","description":"Pacific Time (US & Canada)"}},"email":"cecilie.jorgensen@example.com","login":{"uuid":"24529b60-9aa8-4b09-95b9-896a4788647a","username":"organiclion644","password":"reeves","salt":"NNGRdMYw","md5":"6bfa6cf8f2ee10885c59c232b887af49","sha1":"eabeef18d9d199bddf3c87d0680c6441f73f7356","sha256":"63b0be1e29bcaccf417e688dd17b63ad47a9fa9d9764406c40a1aadca0ec7d42"},"dob":{"date":"1967-04-04T00:38:32.922Z","age":52},"registered":{"date":"2013-04-09T21:29:11.057Z","age":6},"phone":"45542462","cell":"69569084","id":{"name":"CPR","value":"040467-4902"},"picture":{"large":"https://randomuser.me/api/portraits/women/25.jpg","medium":"https://randomuser.me/api/portraits/med/women/25.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/25.jpg"},"nat":"DK"}],"info":{"seed":"0ff048696d0dec4a","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:46]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:46]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:46]	Response status code: 200
+[2019-12-17 11:56:46]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Jens","last":"Hundt"},"location":{"street":{"number":7594,"name":"Königsberger Straße"},"city":"Wittenberg","state":"Mecklenburg-Vorpommern","country":"Germany","postcode":83467,"coordinates":{"latitude":"-37.2691","longitude":"-49.5761"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"jens.hundt@example.com","login":{"uuid":"85cc8f7d-a5f8-4a04-a449-c48613e1e9ac","username":"crazylion783","password":"dang","salt":"Nw7HOcs7","md5":"6823b2b314a4e59374e7607b68b49871","sha1":"89ec81be577e4a205f8f306cf565e13b87127ca0","sha256":"de7734f40ff8b158d11cb51669e2e94ac056098f1a2f79c2ca9d771e6b0f97a4"},"dob":{"date":"1960-08-28T00:22:10.594Z","age":59},"registered":{"date":"2011-03-28T06:30:10.141Z","age":8},"phone":"0029-1856700","cell":"0177-0250203","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/39.jpg","medium":"https://randomuser.me/api/portraits/med/men/39.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/39.jpg"},"nat":"DE"}],"info":{"seed":"23a3791ef8f77b4e","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:47]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:47]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:47]	Response status code: 200
+[2019-12-17 11:56:47]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Francisco","last":"Bradley"},"location":{"street":{"number":8766,"name":"Hamilton Ave"},"city":"Australian Capital Territory","state":"New South Wales","country":"Australia","postcode":9366,"coordinates":{"latitude":"-89.8887","longitude":"-26.4475"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"francisco.bradley@example.com","login":{"uuid":"51ce5135-e698-4841-b343-64bb6f510535","username":"crazyelephant489","password":"clown","salt":"6zJGFqfD","md5":"31b1b3b786ee3122a41fe4927cb18d38","sha1":"fd075bbd8dafe20c146ff37b7660565356446251","sha256":"3eafb7136be8a527214a24b520d8a8fb3940c5f1d90955e3283c2d3c2fc3f979"},"dob":{"date":"1959-07-04T20:30:32.569Z","age":60},"registered":{"date":"2014-11-21T10:13:55.583Z","age":5},"phone":"04-9300-3238","cell":"0470-104-669","id":{"name":"TFN","value":"048764330"},"picture":{"large":"https://randomuser.me/api/portraits/men/72.jpg","medium":"https://randomuser.me/api/portraits/med/men/72.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/72.jpg"},"nat":"AU"}],"info":{"seed":"52762edd60035370","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:48]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:48]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:48]	Response status code: 200
+[2019-12-17 11:56:48]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"کوروش","last":"محمدخان"},"location":{"street":{"number":4879,"name":"میرزای شیرازی"},"city":"ساری","state":"مرکزی","country":"Iran","postcode":17829,"coordinates":{"latitude":"31.1793","longitude":"-46.4434"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"khwrwsh.mhmdkhn@example.com","login":{"uuid":"f9c7c7a1-a3b1-405d-99ec-d1b8174c9584","username":"tinyrabbit860","password":"maxim","salt":"QoQeavZv","md5":"2461404f443dff663db596ad247a3efb","sha1":"03505f00a37dafc0e72f6bc203e587fa24f213d9","sha256":"da68bab681f01372c30e961b2588bcdad2aa78995df2f0370ccfdea210ccd0ba"},"dob":{"date":"1950-12-23T11:44:13.251Z","age":69},"registered":{"date":"2014-11-27T12:11:48.466Z","age":5},"phone":"004-28635310","cell":"0926-800-1855","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/53.jpg","medium":"https://randomuser.me/api/portraits/med/men/53.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/53.jpg"},"nat":"IR"}],"info":{"seed":"6b77e4c5bd1cd03e","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:50]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:50]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:50]	Response status code: 200
+[2019-12-17 11:56:50]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Archie","last":"Turner"},"location":{"street":{"number":4208,"name":"Wairakei Road"},"city":"Upper Hutt","state":"Tasman","country":"New Zealand","postcode":71525,"coordinates":{"latitude":"68.3990","longitude":"-40.7029"},"timezone":{"offset":"-2:00","description":"Mid-Atlantic"}},"email":"archie.turner@example.com","login":{"uuid":"1c66fdca-f636-417c-af2e-ec7d09cbba76","username":"blacktiger897","password":"weller","salt":"7AnygCXx","md5":"b0b0ac5965cc2471ee233868f8225231","sha1":"2b1eb1056b9381d18b02bb1513ab709acc73e26d","sha256":"2283ca5de505317fceb80224d58183181f59d8bcc057b221c1fa0eae281da47a"},"dob":{"date":"1987-03-05T01:10:54.580Z","age":32},"registered":{"date":"2010-09-30T00:14:56.860Z","age":9},"phone":"(058)-766-4317","cell":"(669)-584-5114","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/84.jpg","medium":"https://randomuser.me/api/portraits/med/men/84.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/84.jpg"},"nat":"NZ"}],"info":{"seed":"db60b42ee29f3aaf","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:51]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:51]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:51]	Response status code: 200
+[2019-12-17 11:56:51]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Milla","last":"Mikkola"},"location":{"street":{"number":441,"name":"Aleksanterinkatu"},"city":"Pielavesi","state":"Satakunta","country":"Finland","postcode":15719,"coordinates":{"latitude":"-8.2377","longitude":"24.3399"},"timezone":{"offset":"-6:00","description":"Central Time (US & Canada), Mexico City"}},"email":"milla.mikkola@example.com","login":{"uuid":"992300aa-1b9d-4441-be80-0e3a9fccfdb1","username":"angrybird927","password":"kisses","salt":"SKZrqhB6","md5":"7c5b9e5ce99d2cf30aeb590f8f300059","sha1":"a1befd52ddc217b559f4afcd0e6d6dea7ffb666a","sha256":"f53a76ed35c51e9b4ab236836551a04395fc16d2cd3086f3ddbcd56800771a69"},"dob":{"date":"1955-03-27T08:15:12.253Z","age":64},"registered":{"date":"2013-07-03T01:15:37.341Z","age":6},"phone":"09-779-871","cell":"045-755-38-53","id":{"name":"HETU","value":"NaNNA854undefined"},"picture":{"large":"https://randomuser.me/api/portraits/women/57.jpg","medium":"https://randomuser.me/api/portraits/med/women/57.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/57.jpg"},"nat":"FI"}],"info":{"seed":"32255aec8268b99f","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:53]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:53]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:53]	Response status code: 200
+[2019-12-17 11:56:53]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"پریا","last":"کوتی"},"location":{"street":{"number":2489,"name":"پیروزی"},"city":"شهریار","state":"البرز","country":"Iran","postcode":26334,"coordinates":{"latitude":"28.3356","longitude":"85.9457"},"timezone":{"offset":"-9:00","description":"Alaska"}},"email":"pry.khwty@example.com","login":{"uuid":"dea13f92-2a20-405a-8431-9e04696ed104","username":"bigmeercat935","password":"college","salt":"OkccuOVr","md5":"7157367327502b40b1e3a37762dd7202","sha1":"7913dd5720942bdff1366a1ea40d25a60173be1f","sha256":"e0aee0642840d10ab90711f4bda5c4801cf62679cdb787836922afdf97679b80"},"dob":{"date":"1946-05-10T19:44:10.419Z","age":73},"registered":{"date":"2006-09-18T05:24:24.891Z","age":13},"phone":"064-98002591","cell":"0995-842-0914","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/38.jpg","medium":"https://randomuser.me/api/portraits/med/women/38.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/38.jpg"},"nat":"IR"}],"info":{"seed":"f4f6509e9d15b2ef","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:55]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:55]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:55]	Response status code: 200
+[2019-12-17 11:56:55]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Samantha","last":"Fox"},"location":{"street":{"number":8027,"name":"Victoria Street"},"city":"Hereford","state":"Warwickshire","country":"United Kingdom","postcode":"MQ4Q 4FG","coordinates":{"latitude":"13.0724","longitude":"106.0432"},"timezone":{"offset":"+3:30","description":"Tehran"}},"email":"samantha.fox@example.com","login":{"uuid":"d4b9cf6e-5a34-4d48-be17-764d3558b023","username":"lazykoala463","password":"bacchus","salt":"Nns2pIp5","md5":"b3885e0bccfc620222b70da2f566f425","sha1":"a2276057e46e1050f09b86b214b9f610074d678c","sha256":"c88b974352a49ea7ee0cc71a08dd15df3f790be598e8b225888cb194056b1d36"},"dob":{"date":"1958-05-06T13:57:33.951Z","age":61},"registered":{"date":"2017-01-07T01:26:22.726Z","age":2},"phone":"016974 62553","cell":"0712-460-146","id":{"name":"NINO","value":"NW 19 60 35 P"},"picture":{"large":"https://randomuser.me/api/portraits/women/19.jpg","medium":"https://randomuser.me/api/portraits/med/women/19.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/19.jpg"},"nat":"GB"}],"info":{"seed":"3f76aaaadd3e22ae","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:57]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:57]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:57]	Response status code: 200
+[2019-12-17 11:56:57]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Ugo","last":"Giraud"},"location":{"street":{"number":4507,"name":"Rue de la Barre"},"city":"Tourcoing","state":"Var","country":"France","postcode":24431,"coordinates":{"latitude":"-2.3032","longitude":"-83.3577"},"timezone":{"offset":"-10:00","description":"Hawaii"}},"email":"ugo.giraud@example.com","login":{"uuid":"f617aee2-15b7-49e9-bab7-a07c802b829d","username":"redladybug663","password":"passthie","salt":"gtSEJ4J9","md5":"a6abd067a29f68d0f91692b1398152fb","sha1":"9baf18e283144ede2b253d917b96827b09bf63c1","sha256":"a6d20c1d60c1dd0c63dfba57b7f45f5e642c8ac47a1695626b678784ebb05f78"},"dob":{"date":"1946-06-12T19:07:34.826Z","age":73},"registered":{"date":"2010-06-29T19:51:41.448Z","age":9},"phone":"03-01-65-15-85","cell":"06-04-61-96-61","id":{"name":"INSEE","value":"1NNaN30715423 80"},"picture":{"large":"https://randomuser.me/api/portraits/men/77.jpg","medium":"https://randomuser.me/api/portraits/med/men/77.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/77.jpg"},"nat":"FR"}],"info":{"seed":"c288c7625bf36464","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:58]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:58]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:58]	Response status code: 200
+[2019-12-17 11:56:58]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"حامد","last":"رضاییان"},"location":{"street":{"number":9774,"name":"کلاهدوز"},"city":"مشهد","state":"خراسان رضوی","country":"Iran","postcode":13218,"coordinates":{"latitude":"33.3382","longitude":"-16.9840"},"timezone":{"offset":"+4:00","description":"Abu Dhabi, Muscat, Baku, Tbilisi"}},"email":"hmd.rdyyn@example.com","login":{"uuid":"53affb40-858f-4db4-83f5-c330de5709d5","username":"yellowgoose779","password":"chinook","salt":"IwF8ZUqq","md5":"59f587a422fb81a4df83ec960d274523","sha1":"10a73a32cec5b13727c2983fbf50f9c9bd24cf82","sha256":"c9df807b5528e0944cba87ac23717bc315257faa8d45d2e2967448c4b8ae9e93"},"dob":{"date":"1955-03-04T03:24:00.483Z","age":64},"registered":{"date":"2005-07-26T05:26:06.157Z","age":14},"phone":"089-34058357","cell":"0905-188-7413","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/2.jpg","medium":"https://randomuser.me/api/portraits/med/men/2.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/2.jpg"},"nat":"IR"}],"info":{"seed":"03113e2d0aa69445","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:56:59]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:56:59]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:56:59]	Response status code: 200
+[2019-12-17 11:56:59]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Maida","last":"Eckhoff"},"location":{"street":{"number":6241,"name":"Tullins gate"},"city":"Breivikbotn","state":"Hordaland","country":"Norway","postcode":"6723","coordinates":{"latitude":"52.9954","longitude":"123.5482"},"timezone":{"offset":"0:00","description":"Western Europe Time, London, Lisbon, Casablanca"}},"email":"maida.eckhoff@example.com","login":{"uuid":"92579e15-aebb-43fc-bd99-2266cb5fc9a5","username":"organiccat265","password":"madness","salt":"4STo7Y01","md5":"11551eaa66870edf48b13bed90fd23ee","sha1":"b47dc18cf4029508eb64a9e18038a925cc63fc6e","sha256":"8de5bef5c4fb3e6f6cd335b2ae00c7f71735429d0658ddd54261e5ad13cb6538"},"dob":{"date":"1967-08-21T13:01:21.095Z","age":52},"registered":{"date":"2009-09-12T10:38:56.856Z","age":10},"phone":"73985632","cell":"92685223","id":{"name":"FN","value":"21086739094"},"picture":{"large":"https://randomuser.me/api/portraits/women/77.jpg","medium":"https://randomuser.me/api/portraits/med/women/77.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/77.jpg"},"nat":"NO"}],"info":{"seed":"37f620817417ba36","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:00]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:00]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:00]	Response status code: 200
+[2019-12-17 11:57:00]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Nicole","last":"Hamilton"},"location":{"street":{"number":4539,"name":"Springfield Road"},"city":"Listowel","state":"Longford","country":"Ireland","postcode":26480,"coordinates":{"latitude":"21.1737","longitude":"52.3149"},"timezone":{"offset":"+10:00","description":"Eastern Australia, Guam, Vladivostok"}},"email":"nicole.hamilton@example.com","login":{"uuid":"c52f7c99-278a-4dda-bee4-54e5a74b0a2b","username":"crazyfrog379","password":"tina","salt":"BHQZ2Pn5","md5":"00c6dc6610056feba6760eda9d45c3e7","sha1":"a74391e3936f0f1bf7082db78af1ae3d42ffb853","sha256":"7f340c6111815334a2685c678bae3ab21efa5137e8425ad4031128d15322a185"},"dob":{"date":"1992-10-23T01:46:01.008Z","age":27},"registered":{"date":"2008-08-21T10:31:01.408Z","age":11},"phone":"041-270-6170","cell":"081-645-7257","id":{"name":"PPS","value":"0788665T"},"picture":{"large":"https://randomuser.me/api/portraits/women/65.jpg","medium":"https://randomuser.me/api/portraits/med/women/65.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/65.jpg"},"nat":"IE"}],"info":{"seed":"e96d5e7bd988d702","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:01]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:01]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:01]	Response status code: 200
+[2019-12-17 11:57:01]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Mikael","last":"Rikardsen"},"location":{"street":{"number":2942,"name":"Oluf Ryghs gate"},"city":"Nordlia","state":"Hordaland","country":"Norway","postcode":"4375","coordinates":{"latitude":"52.4175","longitude":"-159.7892"},"timezone":{"offset":"-4:00","description":"Atlantic Time (Canada), Caracas, La Paz"}},"email":"mikael.rikardsen@example.com","login":{"uuid":"aa44a95d-f562-42d5-827d-7d9becbc9638","username":"heavyswan499","password":"bremen","salt":"0tzik1uF","md5":"829e1a738cc4aa2e9a8f9c49a1f77cda","sha1":"2eeb60381265c5a8732b0a520c1cb01db5d383cc","sha256":"3a368f20ed84b4cf12567b614509bd94510d5955c424431638bde79c10acae20"},"dob":{"date":"1990-07-17T11:18:09.427Z","age":29},"registered":{"date":"2012-05-20T14:18:07.674Z","age":7},"phone":"88776325","cell":"94441172","id":{"name":"FN","value":"17079016519"},"picture":{"large":"https://randomuser.me/api/portraits/men/73.jpg","medium":"https://randomuser.me/api/portraits/med/men/73.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/73.jpg"},"nat":"NO"}],"info":{"seed":"01d89421afa20a04","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:02]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:02]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:02]	Response status code: 200
+[2019-12-17 11:57:02]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Elizabeth","last":"Roy"},"location":{"street":{"number":2301,"name":"Frederick Ave"},"city":"Sidney","state":"Québec","country":"Canada","postcode":"P8N 6J1","coordinates":{"latitude":"-64.0392","longitude":"147.2140"},"timezone":{"offset":"+6:00","description":"Almaty, Dhaka, Colombo"}},"email":"elizabeth.roy@example.com","login":{"uuid":"5cec37cc-8fc5-4871-89ba-d94997ca9fdc","username":"redswan614","password":"plastics","salt":"8XvFDfqL","md5":"aa863f8d23f450cc70d72dab3161235b","sha1":"fb6f672d995c3228f5f14817490395f48d1a3b43","sha256":"1c3fd60f55ce610ddb19b0c2b0386a9abbbd23c129ba1e1e5adb071bbbe16851"},"dob":{"date":"1961-06-10T09:44:32.756Z","age":58},"registered":{"date":"2013-01-27T03:32:53.305Z","age":6},"phone":"476-698-7720","cell":"854-969-9217","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/58.jpg","medium":"https://randomuser.me/api/portraits/med/women/58.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/58.jpg"},"nat":"CA"}],"info":{"seed":"fdd1341887734f7a","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:04]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:04]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:04]	Response status code: 200
+[2019-12-17 11:57:04]	Response body: '{"results":[{"gender":"male","name":{"title":"Monsieur","first":"Leonard","last":"Boyer"},"location":{"street":{"number":6134,"name":"Rue Duguesclin"},"city":"Kaufdorf","state":"Zürich","country":"Switzerland","postcode":8923,"coordinates":{"latitude":"-49.1776","longitude":"-63.6617"},"timezone":{"offset":"+9:30","description":"Adelaide, Darwin"}},"email":"leonard.boyer@example.com","login":{"uuid":"81e9d6f2-b307-4a68-8cbe-ac01e50f3fc7","username":"sadtiger716","password":"seneca","salt":"SpdDQBGV","md5":"4478e46b0eb99a96d4a137527b59418b","sha1":"66a6b608136d5e0bde22e56621db46c167a1f6c0","sha256":"8e7518f21c489a348632451daa70279e8f162a6f25856f776b341f9e558b9ca5"},"dob":{"date":"1986-09-13T10:05:17.245Z","age":33},"registered":{"date":"2003-03-14T07:11:42.107Z","age":16},"phone":"076 092 97 45","cell":"078 245 73 94","id":{"name":"AVS","value":"756.2113.6755.44"},"picture":{"large":"https://randomuser.me/api/portraits/men/10.jpg","medium":"https://randomuser.me/api/portraits/med/men/10.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/10.jpg"},"nat":"CH"}],"info":{"seed":"5d742964276ff27b","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:04]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:04]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:04]	Response status code: 200
+[2019-12-17 11:57:04]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Aaliyah","last":"Wang"},"location":{"street":{"number":7109,"name":"Domain Road"},"city":"Nelson","state":"Manawatu-Wanganui","country":"New Zealand","postcode":55139,"coordinates":{"latitude":"67.4131","longitude":"144.4831"},"timezone":{"offset":"-7:00","description":"Mountain Time (US & Canada)"}},"email":"aaliyah.wang@example.com","login":{"uuid":"0d73b385-8820-42e8-b3d8-abd7c473a1c5","username":"orangeostrich739","password":"smiths","salt":"Ijak5G8m","md5":"5e0a69402acc61735e2e17a352c3bd94","sha1":"1611511c921c68580c7a33b9f3b617fa16a9ea50","sha256":"7f5262f906cdd0fca444f052db7610c315593568543e2004358991f50fe351aa"},"dob":{"date":"1990-10-12T03:19:16.076Z","age":29},"registered":{"date":"2010-09-19T04:09:12.769Z","age":9},"phone":"(242)-618-3173","cell":"(341)-840-4897","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/74.jpg","medium":"https://randomuser.me/api/portraits/med/women/74.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/74.jpg"},"nat":"NZ"}],"info":{"seed":"158277c09d80b542","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:57:05]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:57:05]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:57:05]	Response status code: 200
+[2019-12-17 11:57:05]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Nair","last":"Sales"},"location":{"street":{"number":6388,"name":"Rua Pernambuco "},"city":"Barretos","state":"Acre","country":"Brazil","postcode":58917,"coordinates":{"latitude":"-79.2539","longitude":"76.2830"},"timezone":{"offset":"+9:00","description":"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"}},"email":"nair.sales@example.com","login":{"uuid":"beeea710-8381-4427-ab78-965dbcdd35d0","username":"orangemeercat465","password":"honeys","salt":"nGerjBlT","md5":"fc2efff981b11128531ebcb1928af08a","sha1":"ea61b97415c59070215c19ff2df4182e9298af25","sha256":"3db738ec6e1e26cccee5130c79ccab9a8be28aeb73ae04f2baa0539fe7ace671"},"dob":{"date":"1963-06-25T03:57:35.972Z","age":56},"registered":{"date":"2017-07-11T01:23:23.868Z","age":2},"phone":"(78) 8238-0930","cell":"(23) 1936-1031","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/71.jpg","medium":"https://randomuser.me/api/portraits/med/women/71.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/71.jpg"},"nat":"BR"}],"info":{"seed":"7d252ef850a71dc9","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:58:26]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:58:26]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:58:26]	Response status code: 200
+[2019-12-17 11:58:26]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Mikkel","last":"Jensen"},"location":{"street":{"number":5725,"name":"Århusvej"},"city":"Saltum","state":"Danmark","country":"Denmark","postcode":48908,"coordinates":{"latitude":"-30.4675","longitude":"-97.3602"},"timezone":{"offset":"+1:00","description":"Brussels, Copenhagen, Madrid, Paris"}},"email":"mikkel.jensen@example.com","login":{"uuid":"a379fb16-728f-4b9d-aa15-1998d04e87d6","username":"biggoose198","password":"mykids","salt":"CiI7TK3k","md5":"441762e6e025f8376a6487446cc232cc","sha1":"52a718d6c7520d80e479ed07a7f5b6cea2659b28","sha256":"858d8c35b143cbf256cd910e5b42858a4ea72abdaa818edb54462cccd0c86ffa"},"dob":{"date":"1978-01-18T05:57:14.846Z","age":41},"registered":{"date":"2012-03-31T07:40:02.893Z","age":7},"phone":"80285484","cell":"53238411","id":{"name":"CPR","value":"180178-3600"},"picture":{"large":"https://randomuser.me/api/portraits/men/52.jpg","medium":"https://randomuser.me/api/portraits/med/men/52.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/52.jpg"},"nat":"DK"}],"info":{"seed":"59bb166cb0cff473","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:58:44]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:58:44]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:58:44]	Response status code: 200
+[2019-12-17 11:58:44]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Fatma","last":"Yeşilkaya"},"location":{"street":{"number":4818,"name":"Necatibey Cd"},"city":"Zonguldak","state":"Ardahan","country":"Turkey","postcode":99146,"coordinates":{"latitude":"78.4942","longitude":"104.7007"},"timezone":{"offset":"+10:00","description":"Eastern Australia, Guam, Vladivostok"}},"email":"fatma.yesilkaya@example.com","login":{"uuid":"7d5f78de-f52c-41c8-b78c-1aa430722f4d","username":"smallbutterfly681","password":"letter","salt":"wiVfXHQD","md5":"36320a5fec3f2263524f71203897f40a","sha1":"70247b09ae972f39e02c1ae803e670cff3a9d8b2","sha256":"c8464f47b8408485a7e93eb10608cc2f354d843e09cb2069706f63e7a0d0b46d"},"dob":{"date":"1979-06-29T23:15:28.867Z","age":40},"registered":{"date":"2007-08-03T07:30:52.178Z","age":12},"phone":"(041)-192-8862","cell":"(489)-617-6601","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/23.jpg","medium":"https://randomuser.me/api/portraits/med/women/23.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/23.jpg"},"nat":"TR"}],"info":{"seed":"e5656d8dbff56122","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:58:52]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:58:52]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:58:52]	Response status code: 200
+[2019-12-17 11:58:52]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Jurema","last":"Vieira"},"location":{"street":{"number":8574,"name":"Rua Vinte E Dois "},"city":"Teresópolis","state":"Tocantins","country":"Brazil","postcode":93044,"coordinates":{"latitude":"-73.2282","longitude":"19.4942"},"timezone":{"offset":"+8:00","description":"Beijing, Perth, Singapore, Hong Kong"}},"email":"jurema.vieira@example.com","login":{"uuid":"8f5ddeef-e940-4e78-9d6d-345bb082ec94","username":"ticklishduck355","password":"greens","salt":"Lsc5EHg2","md5":"8fe805817627ca747656f56740965e15","sha1":"0af458fbe4fd11f3950010524e15ee150af8dfcf","sha256":"477afb0881ebd4274d63135437aaed3751124431a159e0351f9d2b2a9dc706cc"},"dob":{"date":"1962-01-15T07:03:42.856Z","age":57},"registered":{"date":"2015-03-04T07:57:07.500Z","age":4},"phone":"(05) 1975-2132","cell":"(32) 1876-0068","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/68.jpg","medium":"https://randomuser.me/api/portraits/med/women/68.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/68.jpg"},"nat":"BR"}],"info":{"seed":"333c2d49888de3f9","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:59:00]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:59:00]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:59:00]	Response status code: 200
+[2019-12-17 11:59:00]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Jack","last":"Lavigne"},"location":{"street":{"number":4627,"name":"15th St"},"city":"Killarney","state":"Nova Scotia","country":"Canada","postcode":"X9W 3D7","coordinates":{"latitude":"-62.2208","longitude":"-134.5869"},"timezone":{"offset":"+8:00","description":"Beijing, Perth, Singapore, Hong Kong"}},"email":"jack.lavigne@example.com","login":{"uuid":"68d70772-8f8e-413b-b0de-8e278113d151","username":"ticklishswan591","password":"98765","salt":"F9I5gnR8","md5":"1b517d8ec381a0e6c550cd2d5cf25f2e","sha1":"6e7e925698c1faed3d1088ef9b103d6a4d060575","sha256":"a9b0b43b5ea8f176ba2b97d49915deec6fce67b9c802b5e18994c6e4e57b484d"},"dob":{"date":"1993-07-30T17:22:20.020Z","age":26},"registered":{"date":"2004-08-22T13:01:24.132Z","age":15},"phone":"500-280-3068","cell":"879-284-8421","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/48.jpg","medium":"https://randomuser.me/api/portraits/med/men/48.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/48.jpg"},"nat":"CA"}],"info":{"seed":"e595c810572d0e49","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 11:59:14]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 11:59:14]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 11:59:14]	Response status code: 200
+[2019-12-17 11:59:14]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Grace","last":"Bailey"},"location":{"street":{"number":8882,"name":"Manchester Road"},"city":"Cambridge","state":"Strathclyde","country":"United Kingdom","postcode":"AX3G 8DF","coordinates":{"latitude":"11.9731","longitude":"114.7826"},"timezone":{"offset":"-11:00","description":"Midway Island, Samoa"}},"email":"grace.bailey@example.com","login":{"uuid":"6011e62d-b40a-4f06-a216-d5634f7f22ee","username":"happysnake419","password":"anne","salt":"qaN9dxki","md5":"52176f29407e26273c10995c109d0e62","sha1":"b314840cbbe1358bef5db3e886eb8a0595985c83","sha256":"939ab09f5391325cb25d1dea5abfc42a98e4c951834573474b1124e3fe214a9e"},"dob":{"date":"1965-04-10T04:48:02.210Z","age":54},"registered":{"date":"2006-04-13T09:17:08.281Z","age":13},"phone":"01671 331835","cell":"0750-877-977","id":{"name":"NINO","value":"OJ 92 72 19 B"},"picture":{"large":"https://randomuser.me/api/portraits/women/24.jpg","medium":"https://randomuser.me/api/portraits/med/women/24.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/24.jpg"},"nat":"GB"}],"info":{"seed":"b4332efd61258213","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 12:02:29]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 12:02:29]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 12:02:29]	Response status code: 200
+[2019-12-17 12:02:29]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Francisco","last":"Herbert"},"location":{"street":{"number":7772,"name":"Schulstraße"},"city":"Reichenbach im Vogtland","state":"Hamburg","country":"Germany","postcode":72472,"coordinates":{"latitude":"-47.4181","longitude":"-75.3965"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"francisco.herbert@example.com","login":{"uuid":"455cdb5b-3675-4090-84f9-8dd6c3abdf3f","username":"whitemeercat578","password":"designer","salt":"nxEvbIbd","md5":"eeb4b9f26537929a8a125639947ebcba","sha1":"302b55a870edbe84f149c916df68b39e90faefdb","sha256":"85c5175341118a2923a1078916b4e3d24d34e275e60259110d9a84966bff310c"},"dob":{"date":"1989-04-26T22:14:09.456Z","age":30},"registered":{"date":"2017-04-14T19:11:38.920Z","age":2},"phone":"0716-7892958","cell":"0171-5677589","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/41.jpg","medium":"https://randomuser.me/api/portraits/med/men/41.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/41.jpg"},"nat":"DE"}],"info":{"seed":"9dc90f4da773751c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 12:10:35]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 12:10:35]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 12:10:35]	Response status code: 200
+[2019-12-17 12:10:35]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Maria","last":"Foster"},"location":{"street":{"number":4634,"name":"Stanley Road"},"city":"Newry","state":"Tayside","country":"United Kingdom","postcode":"NC1 5ZR","coordinates":{"latitude":"6.4659","longitude":"139.4386"},"timezone":{"offset":"+3:00","description":"Baghdad, Riyadh, Moscow, St. Petersburg"}},"email":"maria.foster@example.com","login":{"uuid":"a4d87c9d-66f9-4c00-b7eb-7abede824e97","username":"sadladybug682","password":"swimmer","salt":"y8MXbcSD","md5":"444ac07a30a71e0fdedb23c62b9859da","sha1":"0d0cb18d2689cd371c4f99299701f05c7c6bd394","sha256":"37f2a3b2d3b45b0f5cd1dd53e87203f4930ea5dbd1e18710248b0b7244a00cd5"},"dob":{"date":"1984-12-05T21:06:12.752Z","age":35},"registered":{"date":"2018-06-17T16:20:28.895Z","age":1},"phone":"017687 60626","cell":"0707-353-467","id":{"name":"NINO","value":"ES 28 88 29 X"},"picture":{"large":"https://randomuser.me/api/portraits/women/83.jpg","medium":"https://randomuser.me/api/portraits/med/women/83.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/83.jpg"},"nat":"GB"}],"info":{"seed":"b065ff5a567ca074","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 12:10:47]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 12:10:47]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 12:10:47]	Response status code: 200
+[2019-12-17 12:10:47]	Response body: '{"results":[{"gender":"female","name":{"title":"Mademoiselle","first":"Ljubica","last":"Adam"},"location":{"street":{"number":3038,"name":"Rue Paul-Duvivier"},"city":"Bourrignon","state":"Zug","country":"Switzerland","postcode":3230,"coordinates":{"latitude":"-50.5154","longitude":"167.2693"},"timezone":{"offset":"+9:30","description":"Adelaide, Darwin"}},"email":"ljubica.adam@example.com","login":{"uuid":"90be4f1e-88d1-4b43-9cc4-b809b73d38b2","username":"crazypeacock552","password":"seeker","salt":"I1hQsoZV","md5":"b0000fdd46a23f64a062c592c4a08fbc","sha1":"b60d4a98b41423499e5b36131a83e3d3b281901a","sha256":"0e3187b2701ac1c544c51b0747716a93e9e904a60340d48ef9633c5e0a014663"},"dob":{"date":"1946-12-20T06:11:29.737Z","age":73},"registered":{"date":"2012-04-02T20:05:43.605Z","age":7},"phone":"079 157 12 19","cell":"077 403 02 31","id":{"name":"AVS","value":"756.5827.0513.79"},"picture":{"large":"https://randomuser.me/api/portraits/women/71.jpg","medium":"https://randomuser.me/api/portraits/med/women/71.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/71.jpg"},"nat":"CH"}],"info":{"seed":"05cbbf0a6300b6ee","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 12:56:32]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 12:56:32]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 12:56:32]	Response status code: 200
+[2019-12-17 12:56:32]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Trude","last":"Spiegel"},"location":{"street":{"number":1648,"name":"Kirchplatz"},"city":"Landstuhl","state":"Baden-Württemberg","country":"Germany","postcode":43374,"coordinates":{"latitude":"-43.2763","longitude":"170.5144"},"timezone":{"offset":"-2:00","description":"Mid-Atlantic"}},"email":"trude.spiegel@example.com","login":{"uuid":"ed662870-57a2-45c7-9444-a4810a06a198","username":"crazymouse343","password":"darrel","salt":"BNjuXCMt","md5":"2e62a0cb0c6f4cf32f9a39ed9ae72cae","sha1":"fc9119b10fa8fcb2fbb288191b4502d9742fc58d","sha256":"b0410705ab44b792a50de771bdc1b103a633c4840b9847e3d1dc8d1f4e151f81"},"dob":{"date":"1974-07-04T12:47:36.028Z","age":45},"registered":{"date":"2004-04-23T17:39:18.666Z","age":15},"phone":"0604-6155029","cell":"0177-2226804","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/4.jpg","medium":"https://randomuser.me/api/portraits/med/women/4.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/4.jpg"},"nat":"DE"}],"info":{"seed":"59ac946554be932c","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 13:01:42]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 13:01:42]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 13:01:42]	Response status code: 200
+[2019-12-17 13:01:42]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Marcos","last":"Ramos"},"location":{"street":{"number":3193,"name":"Calle de La Luna"},"city":"Guadalajara","state":"Navarra","country":"Spain","postcode":70631,"coordinates":{"latitude":"-18.3376","longitude":"-93.3875"},"timezone":{"offset":"+1:00","description":"Brussels, Copenhagen, Madrid, Paris"}},"email":"marcos.ramos@example.com","login":{"uuid":"bc7585da-8ff9-4e4a-a147-be53053ad122","username":"crazykoala749","password":"architec","salt":"I08K5qOO","md5":"370baa8bd131569cc14a40bd2c5c7f50","sha1":"b68624537cb8fa53fee87e5d9d74326ec030b4e0","sha256":"8d5cc7fadaef027ba226de3b83e3e8d534044958fbd060ab8251ffaadd2b3fd6"},"dob":{"date":"1993-11-30T16:39:36.189Z","age":26},"registered":{"date":"2008-02-07T23:47:01.416Z","age":11},"phone":"903-268-011","cell":"613-247-704","id":{"name":"DNI","value":"53396406-C"},"picture":{"large":"https://randomuser.me/api/portraits/men/20.jpg","medium":"https://randomuser.me/api/portraits/med/men/20.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/20.jpg"},"nat":"ES"}],"info":{"seed":"9d86f7905f2819e7","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:12:04]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:12:04]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:12:04]	Response status code: 200
+[2019-12-17 14:12:04]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Joy","last":"Kelly"},"location":{"street":{"number":2476,"name":"Plum St"},"city":"Desoto","state":"Rhode Island","country":"United States","postcode":36521,"coordinates":{"latitude":"85.5200","longitude":"98.0484"},"timezone":{"offset":"-1:00","description":"Azores, Cape Verde Islands"}},"email":"joy.kelly@example.com","login":{"uuid":"77e6393c-4811-4d79-a1a3-c0e5c73539a3","username":"brownrabbit106","password":"oakley","salt":"Gge2DJxf","md5":"6b2bc539b6c2de1b5516ca2483517b0c","sha1":"4daa44f3f592ae3e8ac7fee9d2acb5abd9abb718","sha256":"344bfe6ff6a0dc36919afab99517a3452afdb5421d8a8543f774a6c9b2b8d74d"},"dob":{"date":"1994-05-24T04:10:53.528Z","age":25},"registered":{"date":"2007-11-01T09:31:29.897Z","age":12},"phone":"(423)-156-2108","cell":"(370)-841-4361","id":{"name":"SSN","value":"902-82-5509"},"picture":{"large":"https://randomuser.me/api/portraits/women/74.jpg","medium":"https://randomuser.me/api/portraits/med/women/74.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/74.jpg"},"nat":"US"}],"info":{"seed":"4f9a6646762ee806","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:12:06]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:12:06]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:12:06]	Response status code: 200
+[2019-12-17 14:12:06]	Response body: '{"results":[{"gender":"female","name":{"title":"Madame","first":"Claudia","last":"Francois"},"location":{"street":{"number":637,"name":"Rue des Chartreux"},"city":"Knonau","state":"Ticino","country":"Switzerland","postcode":1112,"coordinates":{"latitude":"-50.9647","longitude":"124.5868"},"timezone":{"offset":"-9:00","description":"Alaska"}},"email":"claudia.francois@example.com","login":{"uuid":"35e11b7c-d8b6-4eb2-8dfc-623a1801198d","username":"silvergorilla227","password":"vvvvvv","salt":"GSx3TkXZ","md5":"d206c471c31ea916411dc53e9394b342","sha1":"3e2247a65fb07aec8e5a2061928da9395d8b4df3","sha256":"ce3284468cfab34c762de54494e8fc9a3256110226c875353a0fb3b54e4530c1"},"dob":{"date":"1957-07-03T06:30:42.437Z","age":62},"registered":{"date":"2013-10-27T06:15:52.943Z","age":6},"phone":"075 155 82 53","cell":"075 647 22 15","id":{"name":"AVS","value":"756.6236.9959.28"},"picture":{"large":"https://randomuser.me/api/portraits/women/7.jpg","medium":"https://randomuser.me/api/portraits/med/women/7.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/7.jpg"},"nat":"CH"}],"info":{"seed":"14ef7eb98746a5e5","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:12:08]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:12:08]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:12:08]	Response status code: 200
+[2019-12-17 14:12:08]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Morris","last":"Stanley"},"location":{"street":{"number":209,"name":"Woodland St"},"city":"New Orleans","state":"Connecticut","country":"United States","postcode":42785,"coordinates":{"latitude":"83.3956","longitude":"-177.1764"},"timezone":{"offset":"+11:00","description":"Magadan, Solomon Islands, New Caledonia"}},"email":"morris.stanley@example.com","login":{"uuid":"bdf0f925-9457-4160-a50d-43338dbdb7a8","username":"beautifulsnake372","password":"faithful","salt":"JtvBfzbi","md5":"44eb44135aa2d841b0eb1f608a4810e9","sha1":"f263a22b79939d6ecf4d12e6558cafe10f7b2168","sha256":"7bfe00200205675353c16939f5147ea5e5bf7a27a322d35025fdb4cfdc9de4ec"},"dob":{"date":"1958-01-16T22:44:02.220Z","age":61},"registered":{"date":"2006-03-02T07:46:10.849Z","age":13},"phone":"(586)-874-6506","cell":"(067)-998-7106","id":{"name":"SSN","value":"778-87-3082"},"picture":{"large":"https://randomuser.me/api/portraits/men/21.jpg","medium":"https://randomuser.me/api/portraits/med/men/21.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/21.jpg"},"nat":"US"}],"info":{"seed":"2e25ccae9eed3440","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:12:10]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:12:10]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:12:10]	Response status code: 200
+[2019-12-17 14:12:10]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Lester","last":"Rodriquez"},"location":{"street":{"number":2556,"name":"Bollinger Rd"},"city":"Stockton","state":"Maryland","country":"United States","postcode":50981,"coordinates":{"latitude":"83.1305","longitude":"-15.2932"},"timezone":{"offset":"+1:00","description":"Brussels, Copenhagen, Madrid, Paris"}},"email":"lester.rodriquez@example.com","login":{"uuid":"9c740d67-d060-4627-bba9-ef3244bd5afa","username":"redlion941","password":"polopolo","salt":"3bxczlBC","md5":"44433c1b78e4c49b3ba0fb9fd2dfcb69","sha1":"ab9991d8f723fdb566f51b307d5ba2321a242474","sha256":"6fde73f79a9bb9e2c92a421d05faf5f5f8f2d6dc024bd086c4b0dfd2ebfffd7f"},"dob":{"date":"1997-02-12T10:58:07.571Z","age":22},"registered":{"date":"2006-03-20T20:36:15.257Z","age":13},"phone":"(226)-836-9645","cell":"(690)-908-5827","id":{"name":"SSN","value":"740-18-0410"},"picture":{"large":"https://randomuser.me/api/portraits/men/15.jpg","medium":"https://randomuser.me/api/portraits/med/men/15.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/15.jpg"},"nat":"US"}],"info":{"seed":"afb47e93d455f195","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:12:58]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:12:58]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:12:58]	Response status code: 200
+[2019-12-17 14:12:58]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"طاها","last":"کامروا"},"location":{"street":{"number":608,"name":"پارک ارم"},"city":"سیرجان","state":"خراسان جنوبی","country":"Iran","postcode":28112,"coordinates":{"latitude":"28.7992","longitude":"-146.4683"},"timezone":{"offset":"+2:00","description":"Kaliningrad, South Africa"}},"email":"th.khmrw@example.com","login":{"uuid":"8d80e943-a0b0-4811-a584-87a673ff9f07","username":"lazyelephant581","password":"federal","salt":"PaRbGhei","md5":"4b5ea5e5784c8b65f92ab3337b739095","sha1":"2f3e5a254bfd1fd982376d473d17167b1e1632bf","sha256":"6d3e91f7106256befb6144c62017efbaa0d615280712781919348e645b4e579c"},"dob":{"date":"1969-02-13T17:43:28.180Z","age":50},"registered":{"date":"2013-05-10T01:16:19.894Z","age":6},"phone":"042-99690435","cell":"0954-092-0389","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/43.jpg","medium":"https://randomuser.me/api/portraits/med/men/43.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/43.jpg"},"nat":"IR"}],"info":{"seed":"53baaf1ee98346cd","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:00]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:00]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:00]	Response status code: 200
+[2019-12-17 14:13:00]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Amaro","last":"de Souza"},"location":{"street":{"number":8561,"name":"Rua Paraíba "},"city":"Paulo Afonso","state":"Espírito Santo","country":"Brazil","postcode":50399,"coordinates":{"latitude":"-71.8816","longitude":"-87.0712"},"timezone":{"offset":"-3:30","description":"Newfoundland"}},"email":"amaro.desouza@example.com","login":{"uuid":"154d7a47-ea4e-428f-b01b-de80e711221a","username":"bigpanda881","password":"1027","salt":"6Or4jG8n","md5":"902334cf3018dde38da0c039a27e4cc7","sha1":"de958f61887e02e7dc1224f466cadf71137b9074","sha256":"f32a2c2e90a747cd40995353f0091a9aa5e895bc88d553aba008ff5d54dda347"},"dob":{"date":"1993-09-23T06:11:05.261Z","age":26},"registered":{"date":"2011-02-13T19:06:11.876Z","age":8},"phone":"(94) 0111-1604","cell":"(44) 8142-4509","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/4.jpg","medium":"https://randomuser.me/api/portraits/med/men/4.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/4.jpg"},"nat":"BR"}],"info":{"seed":"d06714f61cc40ed7","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:02]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:02]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:02]	Response status code: 200
+[2019-12-17 14:13:02]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Sebastian","last":"Navarro"},"location":{"street":{"number":9937,"name":"Calle de Segovia"},"city":"Almería","state":"Aragón","country":"Spain","postcode":68677,"coordinates":{"latitude":"-17.1927","longitude":"-43.1302"},"timezone":{"offset":"-7:00","description":"Mountain Time (US & Canada)"}},"email":"sebastian.navarro@example.com","login":{"uuid":"ea2f911a-3c05-4a3c-b2c1-a01db709efec","username":"silverbird697","password":"bowtie","salt":"mVauPnVE","md5":"6df87fed023495bedf11d94c0d029eeb","sha1":"9f91cf63f67685acfabefbdb3d11e8ca0379c499","sha256":"ed0b31090caa6a8376eacf59b563689d045f37a592bb3b1c3efb358e4df96fd2"},"dob":{"date":"1945-12-30T22:01:09.700Z","age":74},"registered":{"date":"2003-09-04T11:39:05.303Z","age":16},"phone":"974-058-997","cell":"637-833-116","id":{"name":"DNI","value":"65294159-W"},"picture":{"large":"https://randomuser.me/api/portraits/men/84.jpg","medium":"https://randomuser.me/api/portraits/med/men/84.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/84.jpg"},"nat":"ES"}],"info":{"seed":"eb5a1bf1c2523bf2","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:23]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:23]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:23]	Response status code: 200
+[2019-12-17 14:13:23]	Response body: '{"results":[{"gender":"female","name":{"title":"Mrs","first":"Louane","last":"Lecomte"},"location":{"street":{"number":3777,"name":"Rue Gasparin"},"city":"Strasbourg","state":"Vienne","country":"France","postcode":57445,"coordinates":{"latitude":"-4.4890","longitude":"146.0488"},"timezone":{"offset":"+1:00","description":"Brussels, Copenhagen, Madrid, Paris"}},"email":"louane.lecomte@example.com","login":{"uuid":"98676edf-8b3e-414a-b95c-ee5b97a13cb3","username":"smalltiger920","password":"f00tball","salt":"Um6fqN9J","md5":"f9c592cfe138e102c09ac93de3c76d7a","sha1":"6f5b77b9d8f47d787c3d98bea730701c0019ee40","sha256":"84de553d2065e3660e21a0a59213c0bae4e647de20edf50787a13756bfe739dd"},"dob":{"date":"1964-05-31T08:47:34.076Z","age":55},"registered":{"date":"2015-03-05T07:28:19.288Z","age":4},"phone":"03-60-27-72-15","cell":"06-74-14-37-02","id":{"name":"INSEE","value":"2NNaN31576518 43"},"picture":{"large":"https://randomuser.me/api/portraits/women/56.jpg","medium":"https://randomuser.me/api/portraits/med/women/56.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/56.jpg"},"nat":"FR"}],"info":{"seed":"1f1317ed18b2e631","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:26]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:26]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:26]	Response status code: 200
+[2019-12-17 14:13:26]	Response body: '{"results":[{"gender":"female","name":{"title":"Miss","first":"Julie","last":"Olsen"},"location":{"street":{"number":6625,"name":"Fynsvej"},"city":"Skaerbaek","state":"Sjælland","country":"Denmark","postcode":73539,"coordinates":{"latitude":"-33.2650","longitude":"140.5831"},"timezone":{"offset":"-8:00","description":"Pacific Time (US & Canada)"}},"email":"julie.olsen@example.com","login":{"uuid":"7b02a3cc-b16b-47a7-b9b1-50c60df1ee2d","username":"biggoose111","password":"punch","salt":"eARCQD0L","md5":"d89ffac9be43f89ef1334df8879a2846","sha1":"16ee201817caf71c11088511e480c8a636b0fd20","sha256":"d948bf44e22b77f0e0daf7b92cde37e7818d6f3461ccf679ab0af16f1d40b47e"},"dob":{"date":"1986-10-23T02:33:50.468Z","age":33},"registered":{"date":"2009-07-29T20:26:22.731Z","age":10},"phone":"89088185","cell":"67725940","id":{"name":"CPR","value":"231086-1950"},"picture":{"large":"https://randomuser.me/api/portraits/women/3.jpg","medium":"https://randomuser.me/api/portraits/med/women/3.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/3.jpg"},"nat":"DK"}],"info":{"seed":"f23ff6be324fc979","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:27]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:27]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:27]	Response status code: 200
+[2019-12-17 14:13:27]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Felix","last":"Morin"},"location":{"street":{"number":3307,"name":"22nd Ave"},"city":"Trout Lake","state":"Manitoba","country":"Canada","postcode":"H8T 3Z3","coordinates":{"latitude":"-64.7715","longitude":"-150.2121"},"timezone":{"offset":"-12:00","description":"Eniwetok, Kwajalein"}},"email":"felix.morin@example.com","login":{"uuid":"5a050e37-35bf-4545-9b05-26cddd56f108","username":"angrygoose254","password":"playstat","salt":"ovR8tqwe","md5":"ec04e2696ac95f4370f14188a36cc291","sha1":"2fe4f4673cb7fefa87c4fda47465fdc202cfc8d3","sha256":"61d9fb3462e8bf2cd3754e7c41b1dea3a233ba0b23c18f5d6488557ebff460d6"},"dob":{"date":"1965-04-09T22:51:16.743Z","age":54},"registered":{"date":"2015-09-13T20:32:22.052Z","age":4},"phone":"883-490-0535","cell":"029-122-1179","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/men/83.jpg","medium":"https://randomuser.me/api/portraits/med/men/83.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/83.jpg"},"nat":"CA"}],"info":{"seed":"1b6814bd8260cc8e","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:30]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:30]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:30]	Response status code: 200
+[2019-12-17 14:13:30]	Response body: '{"results":[{"gender":"male","name":{"title":"Mr","first":"Mylan","last":"Renaud"},"location":{"street":{"number":8777,"name":"Rue Louis-Garrand"},"city":"Nîmes","state":"Hérault","country":"France","postcode":33260,"coordinates":{"latitude":"2.1774","longitude":"-127.3445"},"timezone":{"offset":"-2:00","description":"Mid-Atlantic"}},"email":"mylan.renaud@example.com","login":{"uuid":"bd6eea74-ec2f-49e0-8040-6d770ef44f9d","username":"brownbear445","password":"1970","salt":"4Xi7L5ar","md5":"1fe850d214801b2f21c53b171db77642","sha1":"0d173275574047f0899d0cafda72042530cd14bf","sha256":"85cc67e42b633334599aa99c94cc605cfb216a9daa729130fff822fcb562ed2f"},"dob":{"date":"1990-08-31T07:37:40.979Z","age":29},"registered":{"date":"2009-12-07T10:30:44.100Z","age":10},"phone":"01-89-22-96-80","cell":"06-20-74-35-12","id":{"name":"INSEE","value":"1NNaN36662708 11"},"picture":{"large":"https://randomuser.me/api/portraits/men/49.jpg","medium":"https://randomuser.me/api/portraits/med/men/49.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/49.jpg"},"nat":"FR"}],"info":{"seed":"dfe61d2e12f96a7e","results":1,"page":1,"version":"1.3"}}'
+[2019-12-17 14:13:33]	Ejecutando request GET a https://randomuser.me/api/
+[2019-12-17 14:13:33]	Request header: GET /api/ HTTP/2
+Host: randomuser.me
+Accept: */*
+
+
+[2019-12-17 14:13:33]	Response status code: 200
+[2019-12-17 14:13:33]	Response body: '{"results":[{"gender":"female","name":{"title":"Ms","first":"Barb","last":"Allen"},"location":{"street":{"number":4356,"name":"Park Lane"},"city":"Worcester","state":"Staffordshire","country":"United Kingdom","postcode":"A22 6WE","coordinates":{"latitude":"9.6088","longitude":"56.3131"},"timezone":{"offset":"-8:00","description":"Pacific Time (US & Canada)"}},"email":"barb.allen@example.com","login":{"uuid":"20b269fd-ed29-40ee-b9a7-2b4e94f4fe17","username":"lazydog723","password":"palermo","salt":"ZkJb74TL","md5":"dcd2a76c3f97a388950c3f0bcbe9687c","sha1":"662f5fa2629b1e0fc3b8a753278181707af5c097","sha256":"71cecd72dc75cdc0a07a6063f5d51f6191b52dca561c132e96b161fdc990216a"},"dob":{"date":"1958-04-17T01:14:50.448Z","age":61},"registered":{"date":"2018-03-29T10:09:17.954Z","age":1},"phone":"015242 14905","cell":"0778-317-504","id":{"name":"NINO","value":"PK 41 74 97 O"},"picture":{"large":"https://randomuser.me/api/portraits/women/57.jpg","medium":"https://randomuser.me/api/portraits/med/women/57.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/57.jpg"},"nat":"GB"}],"info":{"seed":"3e2feb507c11b4dd","results":1,"page":1,"version":"1.3"}}'

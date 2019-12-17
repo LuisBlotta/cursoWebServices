@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<peliculas encoding="UTF-8" version="1.0"><pelicula><titulo precio="1500" color_de_cd="verde">Harry potter</titulo><autor>JJRowlin</autor><resumen>Un maguito que hace trucos de magia</resumen></pelicula><pelicula><titulo precio="1000" color_de_cd="azul">Narnia</titulo><autor>Juancito</autor><resumen>El leon la bruja y el ropero</resumen></pelicula><pelicula><titulo precio="1200" color_de_cd="rojo">IT</titulo><autor>stephen King</autor><resumen>Un payaso que se come a los nenes</resumen></pelicula></peliculas>

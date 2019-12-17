@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+	<libro>
+		<titulo precio="800">Rayuela</titulo>
+		<editorial>Planeta</editorial>
+		<autor>Cortazar</autor>
+		<sinopsis>bla bla bla</sinopsis>
+	</libro>
+	<libro>
+		<titulo precio="1000">Harry Potter</titulo>
+		<editorial>Planeta</editorial>
+		<autor>Rowling</autor>
+		<sinopsis>bla bla bla</sinopsis>
+		<precio>800</precio>
+	</libro>
+</libros>

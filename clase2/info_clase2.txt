@@ -1,0 +1,5 @@
+getpostman.com -> para probar web services.
+https://estadisticasbcra.com/ api para informacion de moneda
+https://randomuser.me/ informacion aleatoria de usuarios
+extension de chrome jsonviewer para ver json mas claros
+apiary.io para generar documentacion

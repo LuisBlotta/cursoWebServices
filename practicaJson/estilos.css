@@ -1,0 +1,19 @@
+.contenedor{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contenedor .card{
+    margin:20px;
+    display: flex;
+    flex-direction: row;
+}
+.conetnedor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
